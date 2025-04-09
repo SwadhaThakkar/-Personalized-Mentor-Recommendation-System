@@ -1,6 +1,6 @@
 # 🎓 Personalized Mentor Recommendation System
 
-This project implements a simple machine learning system that recommends top 3 CLAT toppers (mentors) to aspirants based on their profiles using content-based filtering and cosine similarity.
+This project implements a simple machine learning system that recommends top 3 CLAT toppers (mentors) to aspirants based on their profiles using cosine similarity.
 
 ---
 

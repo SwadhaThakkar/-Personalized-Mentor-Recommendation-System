@@ -1,0 +1,501 @@
+id,name,strength_subjects,specialization_colleges,experience_level,teaching_style
+1001,Mentor_1,Legal Reasoning,"NLSIU, NUJS",Intermediate,Kinesthetic
+1002,Mentor_2,"Current Affairs, Logical Reasoning","NALSAR, NLU Delhi",Advanced,Auditory
+1003,Mentor_3,Legal Reasoning,"NLU Jodhpur, NUJS",Advanced,Auditory
+1004,Mentor_4,"Legal Reasoning, Quantitative Techniques","NALSAR, NLU Jodhpur",Beginner,Kinesthetic
+1005,Mentor_5,"Current Affairs, Logical Reasoning","NLU Delhi, NLSIU",Beginner,Kinesthetic
+1006,Mentor_6,"Logical Reasoning, English, Current Affairs","NUJS, NALSAR",Advanced,Auditory
+1007,Mentor_7,"Quantitative Techniques, Legal Reasoning, Logical Reasoning","NALSAR, NLU Jodhpur",Intermediate,Kinesthetic
+1008,Mentor_8,"Logical Reasoning, Quantitative Techniques, Legal Reasoning",NLU Jodhpur,Intermediate,Auditory
+1009,Mentor_9,Legal Reasoning,NUJS,Advanced,Visual
+1010,Mentor_10,"Logical Reasoning, Legal Reasoning",NLU Delhi,Intermediate,Kinesthetic
+1011,Mentor_11,"Logical Reasoning, Legal Reasoning",NUJS,Intermediate,Auditory
+1012,Mentor_12,English,"GNLU, NUJS",Advanced,Visual
+1013,Mentor_13,"Legal Reasoning, Quantitative Techniques, Current Affairs",NALSAR,Advanced,Kinesthetic
+1014,Mentor_14,"Logical Reasoning, Quantitative Techniques","NUJS, GNLU",Beginner,Visual
+1015,Mentor_15,Current Affairs,"NALSAR, NLSIU",Advanced,Kinesthetic
+1016,Mentor_16,"Current Affairs, English",GNLU,Beginner,Auditory
+1017,Mentor_17,"Legal Reasoning, Logical Reasoning","NLSIU, NALSAR",Advanced,Auditory
+1018,Mentor_18,"Logical Reasoning, Legal Reasoning","NUJS, NLU Jodhpur",Advanced,Kinesthetic
+1019,Mentor_19,Current Affairs,GNLU,Intermediate,Auditory
+1020,Mentor_20,"Quantitative Techniques, Logical Reasoning, English","NUJS, NLU Delhi",Beginner,Kinesthetic
+1021,Mentor_21,"Current Affairs, Legal Reasoning, Logical Reasoning","NLSIU, NUJS",Beginner,Visual
+1022,Mentor_22,"Legal Reasoning, Logical Reasoning, Quantitative Techniques","NLU Jodhpur, NUJS",Beginner,Visual
+1023,Mentor_23,Quantitative Techniques,NLU Jodhpur,Beginner,Auditory
+1024,Mentor_24,Legal Reasoning,NALSAR,Beginner,Visual
+1025,Mentor_25,"Legal Reasoning, Logical Reasoning",NLU Jodhpur,Beginner,Visual
+1026,Mentor_26,"Current Affairs, Quantitative Techniques, English","NLSIU, NUJS",Intermediate,Visual
+1027,Mentor_27,"Quantitative Techniques, Legal Reasoning, Current Affairs",NALSAR,Intermediate,Kinesthetic
+1028,Mentor_28,"Logical Reasoning, Quantitative Techniques",NALSAR,Advanced,Visual
+1029,Mentor_29,"Current Affairs, English",NALSAR,Intermediate,Kinesthetic
+1030,Mentor_30,"Current Affairs, Quantitative Techniques, English",NUJS,Beginner,Visual
+1031,Mentor_31,"Quantitative Techniques, English, Current Affairs","NLSIU, NALSAR",Intermediate,Auditory
+1032,Mentor_32,Logical Reasoning,"NLU Delhi, NALSAR",Intermediate,Kinesthetic
+1033,Mentor_33,"Logical Reasoning, Current Affairs, Quantitative Techniques",NLU Delhi,Advanced,Visual
+1034,Mentor_34,Legal Reasoning,"NLU Delhi, GNLU",Advanced,Auditory
+1035,Mentor_35,English,NALSAR,Intermediate,Visual
+1036,Mentor_36,"Logical Reasoning, Current Affairs, English",NLU Delhi,Advanced,Kinesthetic
+1037,Mentor_37,"Legal Reasoning, English","NUJS, NLU Delhi",Intermediate,Visual
+1038,Mentor_38,Legal Reasoning,NLU Jodhpur,Beginner,Visual
+1039,Mentor_39,"Legal Reasoning, Logical Reasoning",NALSAR,Advanced,Kinesthetic
+1040,Mentor_40,"English, Quantitative Techniques, Current Affairs",NUJS,Beginner,Kinesthetic
+1041,Mentor_41,Logical Reasoning,"NLU Jodhpur, GNLU",Beginner,Visual
+1042,Mentor_42,"English, Current Affairs, Quantitative Techniques","NLU Delhi, NLU Jodhpur",Intermediate,Kinesthetic
+1043,Mentor_43,"Current Affairs, English",NLU Delhi,Advanced,Auditory
+1044,Mentor_44,"Current Affairs, Logical Reasoning","NLU Delhi, GNLU",Beginner,Visual
+1045,Mentor_45,"Quantitative Techniques, Current Affairs, English",NLSIU,Advanced,Auditory
+1046,Mentor_46,"Current Affairs, English",NLSIU,Advanced,Auditory
+1047,Mentor_47,"Legal Reasoning, Quantitative Techniques, Current Affairs","NALSAR, GNLU",Beginner,Visual
+1048,Mentor_48,English,"NALSAR, NUJS",Intermediate,Visual
+1049,Mentor_49,Legal Reasoning,NALSAR,Intermediate,Auditory
+1050,Mentor_50,"Current Affairs, Legal Reasoning",NUJS,Intermediate,Auditory
+1051,Mentor_51,"Legal Reasoning, Logical Reasoning, Current Affairs",NLU Delhi,Beginner,Visual
+1052,Mentor_52,"Current Affairs, Logical Reasoning","NLSIU, NLU Delhi",Beginner,Visual
+1053,Mentor_53,"Current Affairs, English, Quantitative Techniques",NUJS,Intermediate,Auditory
+1054,Mentor_54,Quantitative Techniques,"GNLU, NALSAR",Advanced,Auditory
+1055,Mentor_55,"Legal Reasoning, Logical Reasoning","NUJS, NLU Delhi",Intermediate,Auditory
+1056,Mentor_56,"Quantitative Techniques, English, Logical Reasoning",NALSAR,Advanced,Auditory
+1057,Mentor_57,"Logical Reasoning, Legal Reasoning",NLSIU,Intermediate,Auditory
+1058,Mentor_58,"Current Affairs, Logical Reasoning",NLU Delhi,Beginner,Visual
+1059,Mentor_59,Legal Reasoning,"GNLU, NLU Delhi",Beginner,Kinesthetic
+1060,Mentor_60,Logical Reasoning,"NLU Delhi, NLSIU",Intermediate,Auditory
+1061,Mentor_61,"Logical Reasoning, Legal Reasoning",NLU Jodhpur,Intermediate,Kinesthetic
+1062,Mentor_62,"Logical Reasoning, English",NLU Delhi,Intermediate,Kinesthetic
+1063,Mentor_63,"Quantitative Techniques, English, Current Affairs",NUJS,Advanced,Visual
+1064,Mentor_64,"Logical Reasoning, Quantitative Techniques, English",NALSAR,Beginner,Visual
+1065,Mentor_65,"Logical Reasoning, Quantitative Techniques",NLU Delhi,Advanced,Auditory
+1066,Mentor_66,"Quantitative Techniques, English","NLSIU, NLU Delhi",Advanced,Visual
+1067,Mentor_67,"Logical Reasoning, Current Affairs","NALSAR, NLSIU",Intermediate,Visual
+1068,Mentor_68,"English, Current Affairs",GNLU,Beginner,Visual
+1069,Mentor_69,"English, Legal Reasoning","NLU Jodhpur, NLU Delhi",Intermediate,Auditory
+1070,Mentor_70,"English, Current Affairs, Quantitative Techniques","NUJS, NLSIU",Beginner,Auditory
+1071,Mentor_71,"Legal Reasoning, Current Affairs, Quantitative Techniques",NLSIU,Advanced,Kinesthetic
+1072,Mentor_72,"Current Affairs, Legal Reasoning","NLSIU, NLU Jodhpur",Beginner,Visual
+1073,Mentor_73,"Current Affairs, Legal Reasoning","NUJS, GNLU",Intermediate,Visual
+1074,Mentor_74,"Current Affairs, Quantitative Techniques, Legal Reasoning","NALSAR, NUJS",Intermediate,Kinesthetic
+1075,Mentor_75,"Quantitative Techniques, Logical Reasoning, Legal Reasoning","NUJS, NLSIU",Intermediate,Auditory
+1076,Mentor_76,"Current Affairs, Legal Reasoning, English",NUJS,Beginner,Auditory
+1077,Mentor_77,"Current Affairs, Quantitative Techniques, Legal Reasoning","GNLU, NLU Jodhpur",Intermediate,Visual
+1078,Mentor_78,"Current Affairs, Quantitative Techniques",NLU Delhi,Beginner,Kinesthetic
+1079,Mentor_79,"Quantitative Techniques, Current Affairs, Logical Reasoning",NUJS,Intermediate,Visual
+1080,Mentor_80,Legal Reasoning,NALSAR,Beginner,Visual
+1081,Mentor_81,"Quantitative Techniques, Logical Reasoning",GNLU,Intermediate,Visual
+1082,Mentor_82,"English, Legal Reasoning","NLU Jodhpur, NLU Delhi",Beginner,Visual
+1083,Mentor_83,"Current Affairs, Logical Reasoning, Legal Reasoning",NALSAR,Advanced,Kinesthetic
+1084,Mentor_84,"Current Affairs, Quantitative Techniques",NUJS,Beginner,Kinesthetic
+1085,Mentor_85,English,NLSIU,Intermediate,Visual
+1086,Mentor_86,"Current Affairs, Quantitative Techniques, English","NLU Delhi, GNLU",Beginner,Kinesthetic
+1087,Mentor_87,"Current Affairs, Legal Reasoning",NLU Jodhpur,Advanced,Kinesthetic
+1088,Mentor_88,"English, Current Affairs",NUJS,Intermediate,Auditory
+1089,Mentor_89,"Logical Reasoning, Legal Reasoning, English",GNLU,Advanced,Auditory
+1090,Mentor_90,"Logical Reasoning, English","NLSIU, NUJS",Advanced,Kinesthetic
+1091,Mentor_91,"English, Logical Reasoning",NLSIU,Beginner,Visual
+1092,Mentor_92,"Current Affairs, English, Legal Reasoning","NLSIU, GNLU",Beginner,Kinesthetic
+1093,Mentor_93,English,NALSAR,Intermediate,Kinesthetic
+1094,Mentor_94,"Logical Reasoning, Current Affairs, Quantitative Techniques","GNLU, NLSIU",Advanced,Auditory
+1095,Mentor_95,Logical Reasoning,NLU Delhi,Advanced,Kinesthetic
+1096,Mentor_96,"Legal Reasoning, Quantitative Techniques","GNLU, NLU Delhi",Beginner,Auditory
+1097,Mentor_97,Logical Reasoning,NLSIU,Intermediate,Auditory
+1098,Mentor_98,"English, Current Affairs, Quantitative Techniques","GNLU, NLSIU",Beginner,Auditory
+1099,Mentor_99,Quantitative Techniques,"NLU Jodhpur, NALSAR",Intermediate,Kinesthetic
+1100,Mentor_100,"Legal Reasoning, Logical Reasoning","NLU Delhi, GNLU",Advanced,Auditory
+1101,Mentor_101,"Legal Reasoning, English, Logical Reasoning",NUJS,Intermediate,Kinesthetic
+1102,Mentor_102,"Legal Reasoning, English","GNLU, NUJS",Advanced,Kinesthetic
+1103,Mentor_103,"Legal Reasoning, Logical Reasoning",NLU Jodhpur,Intermediate,Kinesthetic
+1104,Mentor_104,Quantitative Techniques,"NUJS, GNLU",Beginner,Auditory
+1105,Mentor_105,"Quantitative Techniques, Logical Reasoning",GNLU,Beginner,Visual
+1106,Mentor_106,"Quantitative Techniques, Logical Reasoning","NUJS, NLU Jodhpur",Advanced,Kinesthetic
+1107,Mentor_107,"Logical Reasoning, Current Affairs","NALSAR, GNLU",Intermediate,Visual
+1108,Mentor_108,"Logical Reasoning, English",NALSAR,Beginner,Visual
+1109,Mentor_109,"Logical Reasoning, English, Current Affairs","GNLU, NLSIU",Beginner,Visual
+1110,Mentor_110,"Quantitative Techniques, Current Affairs","NUJS, NLSIU",Beginner,Kinesthetic
+1111,Mentor_111,"Quantitative Techniques, English, Current Affairs","GNLU, NLU Delhi",Intermediate,Auditory
+1112,Mentor_112,Quantitative Techniques,NALSAR,Beginner,Visual
+1113,Mentor_113,"Current Affairs, Logical Reasoning",NALSAR,Advanced,Visual
+1114,Mentor_114,"Current Affairs, Logical Reasoning",NUJS,Beginner,Auditory
+1115,Mentor_115,"Legal Reasoning, Quantitative Techniques, Current Affairs",NLU Jodhpur,Intermediate,Kinesthetic
+1116,Mentor_116,"English, Legal Reasoning",NUJS,Intermediate,Kinesthetic
+1117,Mentor_117,"Legal Reasoning, English",GNLU,Advanced,Auditory
+1118,Mentor_118,"Quantitative Techniques, English",NLSIU,Beginner,Visual
+1119,Mentor_119,Logical Reasoning,GNLU,Advanced,Auditory
+1120,Mentor_120,"Logical Reasoning, Current Affairs, Legal Reasoning","NALSAR, NLSIU",Intermediate,Visual
+1121,Mentor_121,Quantitative Techniques,"GNLU, NLU Jodhpur",Beginner,Auditory
+1122,Mentor_122,"Logical Reasoning, English",NLU Jodhpur,Intermediate,Visual
+1123,Mentor_123,"Current Affairs, Legal Reasoning",GNLU,Beginner,Auditory
+1124,Mentor_124,"Logical Reasoning, English",NLU Jodhpur,Advanced,Auditory
+1125,Mentor_125,Legal Reasoning,"NLU Jodhpur, NALSAR",Intermediate,Auditory
+1126,Mentor_126,"English, Legal Reasoning, Logical Reasoning",NLSIU,Beginner,Kinesthetic
+1127,Mentor_127,Logical Reasoning,NALSAR,Intermediate,Auditory
+1128,Mentor_128,Logical Reasoning,"GNLU, NUJS",Advanced,Visual
+1129,Mentor_129,"Logical Reasoning, Legal Reasoning, English",GNLU,Intermediate,Auditory
+1130,Mentor_130,English,"NUJS, NALSAR",Advanced,Kinesthetic
+1131,Mentor_131,"Current Affairs, Legal Reasoning",NLU Delhi,Beginner,Auditory
+1132,Mentor_132,"Quantitative Techniques, Logical Reasoning, Legal Reasoning","NLU Jodhpur, NALSAR",Advanced,Kinesthetic
+1133,Mentor_133,"Current Affairs, Legal Reasoning",NLU Delhi,Advanced,Auditory
+1134,Mentor_134,"Legal Reasoning, Logical Reasoning",NUJS,Intermediate,Auditory
+1135,Mentor_135,Legal Reasoning,GNLU,Advanced,Visual
+1136,Mentor_136,"Logical Reasoning, English, Legal Reasoning",NUJS,Advanced,Auditory
+1137,Mentor_137,"Logical Reasoning, Legal Reasoning",NLSIU,Advanced,Kinesthetic
+1138,Mentor_138,English,"NLU Jodhpur, NLU Delhi",Advanced,Visual
+1139,Mentor_139,Current Affairs,NUJS,Advanced,Auditory
+1140,Mentor_140,English,GNLU,Intermediate,Auditory
+1141,Mentor_141,"Legal Reasoning, Quantitative Techniques, Logical Reasoning",NLU Delhi,Beginner,Visual
+1142,Mentor_142,"Quantitative Techniques, English, Legal Reasoning",NUJS,Intermediate,Auditory
+1143,Mentor_143,"Current Affairs, English, Logical Reasoning",NLU Jodhpur,Beginner,Visual
+1144,Mentor_144,"Logical Reasoning, Legal Reasoning",NLU Jodhpur,Advanced,Auditory
+1145,Mentor_145,Logical Reasoning,"NUJS, NLSIU",Advanced,Visual
+1146,Mentor_146,Logical Reasoning,"GNLU, NALSAR",Intermediate,Kinesthetic
+1147,Mentor_147,"Quantitative Techniques, Legal Reasoning","NUJS, NLU Jodhpur",Beginner,Visual
+1148,Mentor_148,Quantitative Techniques,"NUJS, NLSIU",Intermediate,Auditory
+1149,Mentor_149,"Legal Reasoning, Current Affairs",NLU Delhi,Beginner,Visual
+1150,Mentor_150,Current Affairs,"NALSAR, NLU Delhi",Advanced,Visual
+1151,Mentor_151,"Logical Reasoning, English, Quantitative Techniques",NLU Jodhpur,Advanced,Auditory
+1152,Mentor_152,Quantitative Techniques,NLU Delhi,Advanced,Visual
+1153,Mentor_153,"Quantitative Techniques, English","NALSAR, NUJS",Beginner,Visual
+1154,Mentor_154,English,"NLU Delhi, GNLU",Intermediate,Auditory
+1155,Mentor_155,English,"NLU Jodhpur, NLSIU",Advanced,Kinesthetic
+1156,Mentor_156,Current Affairs,"NLU Jodhpur, NUJS",Advanced,Kinesthetic
+1157,Mentor_157,"Current Affairs, Quantitative Techniques, English","NLU Delhi, NLSIU",Advanced,Visual
+1158,Mentor_158,"Quantitative Techniques, English, Current Affairs",NALSAR,Beginner,Kinesthetic
+1159,Mentor_159,"Legal Reasoning, English, Current Affairs","GNLU, NUJS",Beginner,Auditory
+1160,Mentor_160,"English, Logical Reasoning",NLSIU,Intermediate,Visual
+1161,Mentor_161,"Logical Reasoning, Quantitative Techniques",NLSIU,Advanced,Auditory
+1162,Mentor_162,English,"NLSIU, GNLU",Intermediate,Kinesthetic
+1163,Mentor_163,"English, Current Affairs, Logical Reasoning",NLU Delhi,Intermediate,Kinesthetic
+1164,Mentor_164,Logical Reasoning,"NLU Jodhpur, NLU Delhi",Advanced,Auditory
+1165,Mentor_165,"Logical Reasoning, Current Affairs",NALSAR,Intermediate,Auditory
+1166,Mentor_166,"Logical Reasoning, Legal Reasoning, Quantitative Techniques",NLSIU,Beginner,Visual
+1167,Mentor_167,"English, Current Affairs, Logical Reasoning","GNLU, NLSIU",Beginner,Visual
+1168,Mentor_168,"English, Logical Reasoning",NALSAR,Intermediate,Auditory
+1169,Mentor_169,"Current Affairs, Quantitative Techniques, English",NLU Jodhpur,Beginner,Kinesthetic
+1170,Mentor_170,"Logical Reasoning, Current Affairs","NLSIU, GNLU",Advanced,Visual
+1171,Mentor_171,"Quantitative Techniques, Current Affairs, English",NLSIU,Advanced,Visual
+1172,Mentor_172,"Logical Reasoning, Legal Reasoning","NUJS, NLU Jodhpur",Intermediate,Auditory
+1173,Mentor_173,"Logical Reasoning, English","NLSIU, NLU Jodhpur",Advanced,Kinesthetic
+1174,Mentor_174,Legal Reasoning,NLU Delhi,Advanced,Kinesthetic
+1175,Mentor_175,"Quantitative Techniques, Logical Reasoning",NUJS,Intermediate,Kinesthetic
+1176,Mentor_176,"English, Logical Reasoning, Legal Reasoning","NUJS, NLU Jodhpur",Intermediate,Visual
+1177,Mentor_177,"Legal Reasoning, Current Affairs, Logical Reasoning",NALSAR,Advanced,Visual
+1178,Mentor_178,"Quantitative Techniques, Legal Reasoning, Current Affairs",GNLU,Beginner,Visual
+1179,Mentor_179,Quantitative Techniques,"NLU Delhi, NLSIU",Advanced,Visual
+1180,Mentor_180,"English, Current Affairs",GNLU,Beginner,Visual
+1181,Mentor_181,"Legal Reasoning, Logical Reasoning, Current Affairs",NLU Delhi,Intermediate,Auditory
+1182,Mentor_182,Legal Reasoning,"NALSAR, NLSIU",Intermediate,Kinesthetic
+1183,Mentor_183,"Quantitative Techniques, Legal Reasoning",NUJS,Intermediate,Visual
+1184,Mentor_184,"Legal Reasoning, English, Current Affairs","NLU Delhi, NUJS",Beginner,Kinesthetic
+1185,Mentor_185,"Logical Reasoning, English","GNLU, NLU Delhi",Intermediate,Auditory
+1186,Mentor_186,"English, Legal Reasoning",NLSIU,Beginner,Visual
+1187,Mentor_187,"English, Logical Reasoning",NLU Delhi,Intermediate,Kinesthetic
+1188,Mentor_188,"Quantitative Techniques, Logical Reasoning, Current Affairs",NUJS,Intermediate,Kinesthetic
+1189,Mentor_189,Current Affairs,"GNLU, NLU Jodhpur",Intermediate,Visual
+1190,Mentor_190,Logical Reasoning,"GNLU, NUJS",Beginner,Visual
+1191,Mentor_191,"Current Affairs, Quantitative Techniques, Logical Reasoning","NLU Jodhpur, NLSIU",Intermediate,Auditory
+1192,Mentor_192,"Quantitative Techniques, Current Affairs, English",GNLU,Advanced,Kinesthetic
+1193,Mentor_193,"Legal Reasoning, Quantitative Techniques, Logical Reasoning","NLU Delhi, GNLU",Intermediate,Kinesthetic
+1194,Mentor_194,English,GNLU,Intermediate,Kinesthetic
+1195,Mentor_195,"Logical Reasoning, English","NLSIU, NLU Delhi",Intermediate,Kinesthetic
+1196,Mentor_196,Logical Reasoning,"NLU Jodhpur, NLSIU",Advanced,Kinesthetic
+1197,Mentor_197,"Logical Reasoning, Quantitative Techniques",NLSIU,Beginner,Kinesthetic
+1198,Mentor_198,"Legal Reasoning, English, Logical Reasoning","GNLU, NLU Jodhpur",Advanced,Visual
+1199,Mentor_199,"English, Quantitative Techniques",NLSIU,Beginner,Auditory
+1200,Mentor_200,"Quantitative Techniques, Current Affairs, Legal Reasoning","NLSIU, GNLU",Advanced,Auditory
+1201,Mentor_201,"Current Affairs, Quantitative Techniques",NLU Delhi,Beginner,Auditory
+1202,Mentor_202,"Legal Reasoning, Quantitative Techniques, Logical Reasoning",GNLU,Intermediate,Kinesthetic
+1203,Mentor_203,Current Affairs,"GNLU, NALSAR",Intermediate,Visual
+1204,Mentor_204,"Legal Reasoning, Quantitative Techniques, English",NLU Jodhpur,Intermediate,Visual
+1205,Mentor_205,Quantitative Techniques,NALSAR,Intermediate,Visual
+1206,Mentor_206,"Logical Reasoning, Legal Reasoning, Current Affairs",GNLU,Advanced,Auditory
+1207,Mentor_207,Current Affairs,NUJS,Intermediate,Kinesthetic
+1208,Mentor_208,Logical Reasoning,GNLU,Intermediate,Visual
+1209,Mentor_209,"English, Legal Reasoning, Current Affairs","NALSAR, NLU Delhi",Advanced,Visual
+1210,Mentor_210,"Legal Reasoning, Current Affairs, English","NALSAR, NLU Delhi",Beginner,Kinesthetic
+1211,Mentor_211,"Legal Reasoning, Logical Reasoning","GNLU, NLSIU",Intermediate,Auditory
+1212,Mentor_212,Logical Reasoning,GNLU,Advanced,Visual
+1213,Mentor_213,"Quantitative Techniques, Current Affairs",NLU Delhi,Intermediate,Auditory
+1214,Mentor_214,"Current Affairs, English, Legal Reasoning",NLU Delhi,Intermediate,Kinesthetic
+1215,Mentor_215,"Current Affairs, Logical Reasoning, English","NLU Jodhpur, NUJS",Advanced,Kinesthetic
+1216,Mentor_216,Logical Reasoning,NUJS,Intermediate,Kinesthetic
+1217,Mentor_217,"Quantitative Techniques, English","NLU Jodhpur, GNLU",Beginner,Visual
+1218,Mentor_218,"Quantitative Techniques, English",NLSIU,Intermediate,Auditory
+1219,Mentor_219,Legal Reasoning,"NUJS, NLU Jodhpur",Intermediate,Kinesthetic
+1220,Mentor_220,Logical Reasoning,NLU Delhi,Beginner,Kinesthetic
+1221,Mentor_221,"Quantitative Techniques, English",NLU Jodhpur,Advanced,Visual
+1222,Mentor_222,"English, Legal Reasoning","NLU Jodhpur, NALSAR",Advanced,Auditory
+1223,Mentor_223,"English, Logical Reasoning, Legal Reasoning","NLU Delhi, NUJS",Intermediate,Kinesthetic
+1224,Mentor_224,"Legal Reasoning, Current Affairs","NLSIU, NALSAR",Beginner,Auditory
+1225,Mentor_225,"Quantitative Techniques, English, Logical Reasoning",NLSIU,Intermediate,Visual
+1226,Mentor_226,"Current Affairs, English","NALSAR, GNLU",Advanced,Auditory
+1227,Mentor_227,Legal Reasoning,NLSIU,Intermediate,Auditory
+1228,Mentor_228,Current Affairs,GNLU,Beginner,Visual
+1229,Mentor_229,"Legal Reasoning, Current Affairs, Logical Reasoning","NALSAR, NLSIU",Intermediate,Kinesthetic
+1230,Mentor_230,"Legal Reasoning, Quantitative Techniques","GNLU, NLSIU",Beginner,Kinesthetic
+1231,Mentor_231,Logical Reasoning,NUJS,Advanced,Auditory
+1232,Mentor_232,Current Affairs,"NLU Jodhpur, NLSIU",Advanced,Auditory
+1233,Mentor_233,"Quantitative Techniques, Legal Reasoning, Current Affairs",NLU Delhi,Advanced,Auditory
+1234,Mentor_234,"Legal Reasoning, English, Logical Reasoning","NLU Delhi, NALSAR",Advanced,Auditory
+1235,Mentor_235,Legal Reasoning,"NLU Delhi, NLSIU",Advanced,Kinesthetic
+1236,Mentor_236,"Current Affairs, Logical Reasoning",NLU Delhi,Advanced,Auditory
+1237,Mentor_237,"Legal Reasoning, English, Current Affairs",NLU Delhi,Advanced,Kinesthetic
+1238,Mentor_238,"Quantitative Techniques, Legal Reasoning",GNLU,Intermediate,Kinesthetic
+1239,Mentor_239,"Current Affairs, English","NLU Jodhpur, GNLU",Intermediate,Visual
+1240,Mentor_240,Logical Reasoning,NUJS,Advanced,Kinesthetic
+1241,Mentor_241,"Quantitative Techniques, Current Affairs","NALSAR, NLU Delhi",Intermediate,Auditory
+1242,Mentor_242,"Quantitative Techniques, English",NLSIU,Beginner,Auditory
+1243,Mentor_243,Current Affairs,NLSIU,Advanced,Visual
+1244,Mentor_244,"Logical Reasoning, Current Affairs","NLU Delhi, NALSAR",Advanced,Auditory
+1245,Mentor_245,Logical Reasoning,NUJS,Advanced,Visual
+1246,Mentor_246,"Legal Reasoning, Logical Reasoning, Current Affairs","NLSIU, NALSAR",Intermediate,Visual
+1247,Mentor_247,Current Affairs,NLU Delhi,Intermediate,Visual
+1248,Mentor_248,Legal Reasoning,NLSIU,Intermediate,Auditory
+1249,Mentor_249,Current Affairs,"NUJS, NLSIU",Intermediate,Auditory
+1250,Mentor_250,"Legal Reasoning, Logical Reasoning, Quantitative Techniques","NLU Jodhpur, NALSAR",Beginner,Visual
+1251,Mentor_251,Quantitative Techniques,"NUJS, NLSIU",Beginner,Auditory
+1252,Mentor_252,"Legal Reasoning, Logical Reasoning, English",GNLU,Beginner,Kinesthetic
+1253,Mentor_253,"Legal Reasoning, English","GNLU, NALSAR",Advanced,Visual
+1254,Mentor_254,"Logical Reasoning, Legal Reasoning","NLU Delhi, NLU Jodhpur",Beginner,Visual
+1255,Mentor_255,"English, Quantitative Techniques, Logical Reasoning","NLU Delhi, NALSAR",Intermediate,Visual
+1256,Mentor_256,Quantitative Techniques,"GNLU, NLSIU",Advanced,Kinesthetic
+1257,Mentor_257,"Current Affairs, Quantitative Techniques, Logical Reasoning",NLU Delhi,Intermediate,Kinesthetic
+1258,Mentor_258,"Current Affairs, English",GNLU,Beginner,Auditory
+1259,Mentor_259,"English, Legal Reasoning",GNLU,Intermediate,Visual
+1260,Mentor_260,"Legal Reasoning, Current Affairs",NALSAR,Beginner,Auditory
+1261,Mentor_261,"Logical Reasoning, Legal Reasoning",NLU Delhi,Beginner,Auditory
+1262,Mentor_262,"Quantitative Techniques, Legal Reasoning",GNLU,Advanced,Visual
+1263,Mentor_263,Logical Reasoning,"NLU Jodhpur, NLSIU",Beginner,Visual
+1264,Mentor_264,"Legal Reasoning, Logical Reasoning","NALSAR, NLU Delhi",Advanced,Kinesthetic
+1265,Mentor_265,"Current Affairs, Legal Reasoning",NUJS,Beginner,Auditory
+1266,Mentor_266,Legal Reasoning,"GNLU, NLSIU",Beginner,Kinesthetic
+1267,Mentor_267,Logical Reasoning,GNLU,Intermediate,Kinesthetic
+1268,Mentor_268,Legal Reasoning,"NLU Delhi, NLU Jodhpur",Beginner,Kinesthetic
+1269,Mentor_269,Quantitative Techniques,GNLU,Beginner,Kinesthetic
+1270,Mentor_270,"Legal Reasoning, English","NLU Jodhpur, GNLU",Advanced,Auditory
+1271,Mentor_271,"Quantitative Techniques, English, Legal Reasoning","NUJS, NALSAR",Advanced,Visual
+1272,Mentor_272,"Quantitative Techniques, Legal Reasoning",NLU Jodhpur,Beginner,Kinesthetic
+1273,Mentor_273,Quantitative Techniques,NLU Delhi,Beginner,Auditory
+1274,Mentor_274,"Legal Reasoning, Current Affairs",NALSAR,Advanced,Visual
+1275,Mentor_275,Quantitative Techniques,NLSIU,Beginner,Visual
+1276,Mentor_276,"English, Quantitative Techniques",NUJS,Intermediate,Auditory
+1277,Mentor_277,"English, Legal Reasoning, Logical Reasoning","NLU Jodhpur, NLU Delhi",Intermediate,Kinesthetic
+1278,Mentor_278,Logical Reasoning,NLSIU,Advanced,Kinesthetic
+1279,Mentor_279,"English, Current Affairs","NLU Jodhpur, NALSAR",Advanced,Visual
+1280,Mentor_280,"Current Affairs, Logical Reasoning, Quantitative Techniques",NUJS,Advanced,Visual
+1281,Mentor_281,"English, Current Affairs",NLSIU,Intermediate,Auditory
+1282,Mentor_282,"English, Logical Reasoning","NALSAR, GNLU",Advanced,Auditory
+1283,Mentor_283,Quantitative Techniques,"GNLU, NUJS",Beginner,Kinesthetic
+1284,Mentor_284,Legal Reasoning,"NLU Jodhpur, NLU Delhi",Beginner,Kinesthetic
+1285,Mentor_285,"Legal Reasoning, Quantitative Techniques","NUJS, NALSAR",Intermediate,Kinesthetic
+1286,Mentor_286,"Logical Reasoning, Quantitative Techniques, Current Affairs",NLSIU,Intermediate,Visual
+1287,Mentor_287,"Quantitative Techniques, Legal Reasoning",NALSAR,Advanced,Visual
+1288,Mentor_288,"Logical Reasoning, Quantitative Techniques","NLU Delhi, NLSIU",Intermediate,Kinesthetic
+1289,Mentor_289,"Logical Reasoning, Quantitative Techniques","NUJS, GNLU",Beginner,Visual
+1290,Mentor_290,"Logical Reasoning, Quantitative Techniques, Legal Reasoning","NUJS, NLU Delhi",Intermediate,Kinesthetic
+1291,Mentor_291,Logical Reasoning,NALSAR,Advanced,Visual
+1292,Mentor_292,"English, Quantitative Techniques","NLU Jodhpur, NLU Delhi",Intermediate,Visual
+1293,Mentor_293,Current Affairs,NLSIU,Beginner,Auditory
+1294,Mentor_294,"Logical Reasoning, English, Legal Reasoning","NALSAR, NLSIU",Intermediate,Visual
+1295,Mentor_295,"Logical Reasoning, Current Affairs, Legal Reasoning","NALSAR, GNLU",Intermediate,Kinesthetic
+1296,Mentor_296,Current Affairs,NLU Jodhpur,Intermediate,Visual
+1297,Mentor_297,"Current Affairs, English, Legal Reasoning",GNLU,Advanced,Kinesthetic
+1298,Mentor_298,Current Affairs,"GNLU, NLU Jodhpur",Intermediate,Auditory
+1299,Mentor_299,"Legal Reasoning, Current Affairs","NLU Jodhpur, NALSAR",Intermediate,Visual
+1300,Mentor_300,"Legal Reasoning, Current Affairs","NLU Jodhpur, NLSIU",Beginner,Kinesthetic
+1301,Mentor_301,"Quantitative Techniques, Legal Reasoning, English",NUJS,Intermediate,Visual
+1302,Mentor_302,"Quantitative Techniques, Legal Reasoning",NLSIU,Advanced,Auditory
+1303,Mentor_303,"Current Affairs, Quantitative Techniques, English","NLSIU, NUJS",Advanced,Visual
+1304,Mentor_304,"Legal Reasoning, English, Current Affairs","NLSIU, NLU Jodhpur",Intermediate,Visual
+1305,Mentor_305,"Current Affairs, English",NALSAR,Beginner,Kinesthetic
+1306,Mentor_306,"Logical Reasoning, Current Affairs","NLU Delhi, NALSAR",Beginner,Kinesthetic
+1307,Mentor_307,Quantitative Techniques,NLU Jodhpur,Beginner,Kinesthetic
+1308,Mentor_308,Quantitative Techniques,NLU Delhi,Intermediate,Kinesthetic
+1309,Mentor_309,"English, Legal Reasoning, Current Affairs",NLU Jodhpur,Beginner,Kinesthetic
+1310,Mentor_310,Quantitative Techniques,NLU Delhi,Beginner,Kinesthetic
+1311,Mentor_311,Current Affairs,"NALSAR, GNLU",Advanced,Visual
+1312,Mentor_312,"Quantitative Techniques, Logical Reasoning, Current Affairs","NALSAR, NLU Jodhpur",Advanced,Auditory
+1313,Mentor_313,Legal Reasoning,"GNLU, NALSAR",Intermediate,Kinesthetic
+1314,Mentor_314,"Current Affairs, Logical Reasoning, English","GNLU, NUJS",Intermediate,Kinesthetic
+1315,Mentor_315,"Current Affairs, Quantitative Techniques","NLSIU, NLU Delhi",Beginner,Visual
+1316,Mentor_316,"English, Logical Reasoning, Current Affairs",NLU Delhi,Intermediate,Auditory
+1317,Mentor_317,"Current Affairs, Logical Reasoning, Quantitative Techniques",NALSAR,Beginner,Kinesthetic
+1318,Mentor_318,"Quantitative Techniques, Legal Reasoning, Logical Reasoning",NLU Jodhpur,Advanced,Kinesthetic
+1319,Mentor_319,Legal Reasoning,"NLU Delhi, NALSAR",Advanced,Kinesthetic
+1320,Mentor_320,"Legal Reasoning, English, Current Affairs","GNLU, NLU Delhi",Advanced,Kinesthetic
+1321,Mentor_321,Quantitative Techniques,"NLU Jodhpur, NLU Delhi",Beginner,Visual
+1322,Mentor_322,"Logical Reasoning, English, Current Affairs",NLSIU,Advanced,Visual
+1323,Mentor_323,"Current Affairs, Legal Reasoning, Quantitative Techniques","NALSAR, NLU Delhi",Advanced,Visual
+1324,Mentor_324,Logical Reasoning,"NUJS, GNLU",Beginner,Kinesthetic
+1325,Mentor_325,"Logical Reasoning, Quantitative Techniques",GNLU,Beginner,Kinesthetic
+1326,Mentor_326,"Quantitative Techniques, Legal Reasoning","NLU Delhi, NLSIU",Intermediate,Kinesthetic
+1327,Mentor_327,"Quantitative Techniques, Legal Reasoning","NLU Jodhpur, NUJS",Intermediate,Visual
+1328,Mentor_328,"Current Affairs, Legal Reasoning",NLU Delhi,Intermediate,Kinesthetic
+1329,Mentor_329,"Legal Reasoning, Logical Reasoning, Quantitative Techniques",NALSAR,Intermediate,Auditory
+1330,Mentor_330,Current Affairs,"NALSAR, NLSIU",Intermediate,Kinesthetic
+1331,Mentor_331,"Quantitative Techniques, Legal Reasoning, English","NLU Jodhpur, NALSAR",Beginner,Visual
+1332,Mentor_332,"Logical Reasoning, Quantitative Techniques","NLU Delhi, NUJS",Beginner,Auditory
+1333,Mentor_333,"Legal Reasoning, Logical Reasoning, Current Affairs","GNLU, NLU Jodhpur",Intermediate,Kinesthetic
+1334,Mentor_334,"Current Affairs, Legal Reasoning, English","NLU Jodhpur, NLSIU",Intermediate,Auditory
+1335,Mentor_335,Legal Reasoning,"NALSAR, GNLU",Advanced,Kinesthetic
+1336,Mentor_336,"Quantitative Techniques, Legal Reasoning, Logical Reasoning","NLU Delhi, NALSAR",Beginner,Visual
+1337,Mentor_337,"English, Legal Reasoning, Logical Reasoning",NLSIU,Beginner,Auditory
+1338,Mentor_338,Current Affairs,NLU Delhi,Intermediate,Visual
+1339,Mentor_339,"Legal Reasoning, Logical Reasoning, Quantitative Techniques",GNLU,Advanced,Visual
+1340,Mentor_340,"Legal Reasoning, Logical Reasoning","NALSAR, GNLU",Beginner,Kinesthetic
+1341,Mentor_341,"Current Affairs, Logical Reasoning","NLSIU, NUJS",Intermediate,Auditory
+1342,Mentor_342,"Current Affairs, Logical Reasoning, Quantitative Techniques","NALSAR, NUJS",Advanced,Kinesthetic
+1343,Mentor_343,"Quantitative Techniques, Logical Reasoning, English","NLU Delhi, GNLU",Intermediate,Visual
+1344,Mentor_344,"Logical Reasoning, English","NUJS, NLU Delhi",Advanced,Kinesthetic
+1345,Mentor_345,Legal Reasoning,"NLSIU, NLU Delhi",Intermediate,Auditory
+1346,Mentor_346,"Legal Reasoning, Quantitative Techniques, Logical Reasoning","NLSIU, NALSAR",Intermediate,Auditory
+1347,Mentor_347,Legal Reasoning,"NLU Jodhpur, NUJS",Intermediate,Auditory
+1348,Mentor_348,"Logical Reasoning, Current Affairs, Legal Reasoning",NLSIU,Advanced,Auditory
+1349,Mentor_349,"Logical Reasoning, Legal Reasoning","NLU Delhi, NUJS",Beginner,Auditory
+1350,Mentor_350,"English, Legal Reasoning","NLU Delhi, NALSAR",Beginner,Auditory
+1351,Mentor_351,"English, Legal Reasoning","NLU Jodhpur, NLU Delhi",Beginner,Auditory
+1352,Mentor_352,Legal Reasoning,NUJS,Beginner,Visual
+1353,Mentor_353,Current Affairs,"NLU Delhi, NLSIU",Intermediate,Visual
+1354,Mentor_354,English,"NALSAR, GNLU",Beginner,Visual
+1355,Mentor_355,"Current Affairs, Logical Reasoning",NUJS,Beginner,Visual
+1356,Mentor_356,"Current Affairs, Legal Reasoning, English",NALSAR,Beginner,Auditory
+1357,Mentor_357,Current Affairs,"GNLU, NUJS",Advanced,Kinesthetic
+1358,Mentor_358,"Legal Reasoning, English","NLU Jodhpur, GNLU",Beginner,Visual
+1359,Mentor_359,"Quantitative Techniques, Logical Reasoning, Current Affairs","NLU Jodhpur, NUJS",Beginner,Visual
+1360,Mentor_360,Legal Reasoning,NALSAR,Beginner,Kinesthetic
+1361,Mentor_361,"Legal Reasoning, Logical Reasoning, Quantitative Techniques",GNLU,Intermediate,Auditory
+1362,Mentor_362,Logical Reasoning,NALSAR,Intermediate,Visual
+1363,Mentor_363,"English, Quantitative Techniques",NLU Jodhpur,Advanced,Visual
+1364,Mentor_364,"Quantitative Techniques, Legal Reasoning",NALSAR,Intermediate,Kinesthetic
+1365,Mentor_365,"Logical Reasoning, English","NLSIU, GNLU",Intermediate,Kinesthetic
+1366,Mentor_366,"English, Current Affairs, Quantitative Techniques",NLU Jodhpur,Intermediate,Auditory
+1367,Mentor_367,"Legal Reasoning, Quantitative Techniques",NLU Delhi,Beginner,Kinesthetic
+1368,Mentor_368,"English, Legal Reasoning, Current Affairs","NLU Delhi, NLU Jodhpur",Beginner,Auditory
+1369,Mentor_369,"Quantitative Techniques, English, Current Affairs",NALSAR,Beginner,Visual
+1370,Mentor_370,Quantitative Techniques,GNLU,Beginner,Visual
+1371,Mentor_371,"English, Legal Reasoning","GNLU, NLSIU",Beginner,Visual
+1372,Mentor_372,Logical Reasoning,"NLSIU, NLU Delhi",Advanced,Visual
+1373,Mentor_373,Current Affairs,NUJS,Intermediate,Auditory
+1374,Mentor_374,"Quantitative Techniques, Current Affairs, English","NLU Delhi, NLSIU",Intermediate,Auditory
+1375,Mentor_375,Current Affairs,"NALSAR, NUJS",Beginner,Kinesthetic
+1376,Mentor_376,"Logical Reasoning, Legal Reasoning, Quantitative Techniques","NALSAR, NLSIU",Advanced,Kinesthetic
+1377,Mentor_377,"Current Affairs, English, Logical Reasoning",NUJS,Advanced,Visual
+1378,Mentor_378,"English, Current Affairs",NALSAR,Advanced,Visual
+1379,Mentor_379,"Current Affairs, Legal Reasoning, Logical Reasoning",NUJS,Intermediate,Kinesthetic
+1380,Mentor_380,"Current Affairs, Logical Reasoning, Quantitative Techniques","NLU Jodhpur, NLSIU",Intermediate,Kinesthetic
+1381,Mentor_381,"Logical Reasoning, English",NLU Jodhpur,Intermediate,Auditory
+1382,Mentor_382,Logical Reasoning,NUJS,Advanced,Auditory
+1383,Mentor_383,"Current Affairs, Logical Reasoning, Legal Reasoning","NUJS, NLU Delhi",Advanced,Visual
+1384,Mentor_384,"Logical Reasoning, English",GNLU,Intermediate,Kinesthetic
+1385,Mentor_385,Quantitative Techniques,NALSAR,Intermediate,Visual
+1386,Mentor_386,Logical Reasoning,NALSAR,Intermediate,Visual
+1387,Mentor_387,"Logical Reasoning, Current Affairs",NUJS,Advanced,Auditory
+1388,Mentor_388,"Logical Reasoning, Current Affairs, English","NLU Delhi, NLU Jodhpur",Beginner,Kinesthetic
+1389,Mentor_389,"Legal Reasoning, English","NALSAR, NLU Delhi",Beginner,Visual
+1390,Mentor_390,Current Affairs,NLU Jodhpur,Intermediate,Auditory
+1391,Mentor_391,"Legal Reasoning, Current Affairs",GNLU,Intermediate,Kinesthetic
+1392,Mentor_392,"Logical Reasoning, English, Legal Reasoning",NLSIU,Beginner,Auditory
+1393,Mentor_393,"Legal Reasoning, Logical Reasoning, Current Affairs","NLU Delhi, NLU Jodhpur",Advanced,Auditory
+1394,Mentor_394,English,"NUJS, NLU Delhi",Intermediate,Auditory
+1395,Mentor_395,Legal Reasoning,GNLU,Advanced,Visual
+1396,Mentor_396,"English, Logical Reasoning, Current Affairs",NLU Jodhpur,Beginner,Kinesthetic
+1397,Mentor_397,Logical Reasoning,"NLSIU, NALSAR",Beginner,Visual
+1398,Mentor_398,"Logical Reasoning, Current Affairs","NLU Delhi, NLSIU",Advanced,Kinesthetic
+1399,Mentor_399,Legal Reasoning,NUJS,Intermediate,Kinesthetic
+1400,Mentor_400,Logical Reasoning,NLSIU,Advanced,Visual
+1401,Mentor_401,"Quantitative Techniques, Logical Reasoning, Legal Reasoning",NLU Delhi,Intermediate,Auditory
+1402,Mentor_402,Logical Reasoning,NLU Jodhpur,Intermediate,Visual
+1403,Mentor_403,"Quantitative Techniques, Current Affairs","NLU Delhi, NLU Jodhpur",Intermediate,Kinesthetic
+1404,Mentor_404,"Current Affairs, English",NUJS,Advanced,Kinesthetic
+1405,Mentor_405,Quantitative Techniques,"NLU Delhi, NALSAR",Advanced,Visual
+1406,Mentor_406,Legal Reasoning,GNLU,Advanced,Visual
+1407,Mentor_407,"Logical Reasoning, English, Legal Reasoning","NLU Jodhpur, NALSAR",Advanced,Auditory
+1408,Mentor_408,Legal Reasoning,"NLU Jodhpur, GNLU",Intermediate,Auditory
+1409,Mentor_409,"Logical Reasoning, English, Quantitative Techniques",NALSAR,Beginner,Visual
+1410,Mentor_410,"Quantitative Techniques, Legal Reasoning, Logical Reasoning","NALSAR, NUJS",Intermediate,Auditory
+1411,Mentor_411,Quantitative Techniques,NUJS,Intermediate,Auditory
+1412,Mentor_412,"Current Affairs, Quantitative Techniques, Logical Reasoning",GNLU,Intermediate,Visual
+1413,Mentor_413,English,"NLSIU, NLU Delhi",Beginner,Auditory
+1414,Mentor_414,Quantitative Techniques,GNLU,Advanced,Kinesthetic
+1415,Mentor_415,"Quantitative Techniques, English",NLU Jodhpur,Beginner,Kinesthetic
+1416,Mentor_416,English,"NALSAR, GNLU",Advanced,Auditory
+1417,Mentor_417,Logical Reasoning,"NALSAR, NUJS",Intermediate,Kinesthetic
+1418,Mentor_418,"Legal Reasoning, Quantitative Techniques, Current Affairs",NLSIU,Advanced,Visual
+1419,Mentor_419,Current Affairs,GNLU,Advanced,Kinesthetic
+1420,Mentor_420,"Quantitative Techniques, Logical Reasoning, Current Affairs","NUJS, NLU Delhi",Intermediate,Visual
+1421,Mentor_421,"English, Quantitative Techniques, Current Affairs","NUJS, GNLU",Intermediate,Visual
+1422,Mentor_422,"English, Logical Reasoning","NLU Delhi, NALSAR",Advanced,Visual
+1423,Mentor_423,"Quantitative Techniques, Legal Reasoning","NUJS, NALSAR",Beginner,Visual
+1424,Mentor_424,Quantitative Techniques,NUJS,Intermediate,Kinesthetic
+1425,Mentor_425,"English, Current Affairs, Logical Reasoning",GNLU,Advanced,Visual
+1426,Mentor_426,"Current Affairs, Quantitative Techniques",GNLU,Beginner,Kinesthetic
+1427,Mentor_427,Quantitative Techniques,"NALSAR, NLSIU",Beginner,Visual
+1428,Mentor_428,"Logical Reasoning, Quantitative Techniques, Legal Reasoning",NLU Delhi,Advanced,Auditory
+1429,Mentor_429,"English, Current Affairs, Quantitative Techniques",NLU Jodhpur,Beginner,Auditory
+1430,Mentor_430,Quantitative Techniques,"NUJS, NLU Jodhpur",Intermediate,Kinesthetic
+1431,Mentor_431,"Legal Reasoning, Logical Reasoning",NLU Delhi,Advanced,Kinesthetic
+1432,Mentor_432,"Logical Reasoning, English",GNLU,Intermediate,Auditory
+1433,Mentor_433,"Legal Reasoning, Quantitative Techniques, Current Affairs","NLSIU, NLU Jodhpur",Intermediate,Visual
+1434,Mentor_434,"Quantitative Techniques, Logical Reasoning",NUJS,Beginner,Visual
+1435,Mentor_435,"English, Legal Reasoning","NLU Delhi, NALSAR",Intermediate,Kinesthetic
+1436,Mentor_436,Legal Reasoning,"NALSAR, NLSIU",Advanced,Kinesthetic
+1437,Mentor_437,Quantitative Techniques,NUJS,Beginner,Visual
+1438,Mentor_438,"Quantitative Techniques, Current Affairs","NLSIU, NALSAR",Advanced,Auditory
+1439,Mentor_439,"Current Affairs, English, Logical Reasoning",NLU Jodhpur,Intermediate,Auditory
+1440,Mentor_440,"English, Current Affairs","NLU Jodhpur, GNLU",Advanced,Kinesthetic
+1441,Mentor_441,Quantitative Techniques,"NLSIU, NALSAR",Beginner,Visual
+1442,Mentor_442,"English, Quantitative Techniques, Current Affairs",NLU Delhi,Advanced,Visual
+1443,Mentor_443,"Current Affairs, Quantitative Techniques, English",NUJS,Intermediate,Auditory
+1444,Mentor_444,Quantitative Techniques,"GNLU, NLU Jodhpur",Intermediate,Visual
+1445,Mentor_445,"Current Affairs, Logical Reasoning, English","NLU Delhi, GNLU",Advanced,Kinesthetic
+1446,Mentor_446,"Logical Reasoning, Legal Reasoning",NUJS,Advanced,Kinesthetic
+1447,Mentor_447,"Current Affairs, Logical Reasoning, Quantitative Techniques","GNLU, NUJS",Intermediate,Kinesthetic
+1448,Mentor_448,English,"NLSIU, NLU Delhi",Beginner,Auditory
+1449,Mentor_449,Legal Reasoning,"NALSAR, NLSIU",Intermediate,Auditory
+1450,Mentor_450,Current Affairs,"NUJS, NLSIU",Intermediate,Visual
+1451,Mentor_451,"English, Quantitative Techniques, Current Affairs",NUJS,Beginner,Visual
+1452,Mentor_452,Logical Reasoning,"NALSAR, NLSIU",Beginner,Visual
+1453,Mentor_453,"Current Affairs, English",GNLU,Beginner,Kinesthetic
+1454,Mentor_454,"English, Quantitative Techniques, Logical Reasoning","NUJS, NALSAR",Beginner,Kinesthetic
+1455,Mentor_455,"Current Affairs, Legal Reasoning","GNLU, NLU Delhi",Beginner,Kinesthetic
+1456,Mentor_456,Logical Reasoning,"NLU Delhi, GNLU",Intermediate,Auditory
+1457,Mentor_457,English,GNLU,Beginner,Kinesthetic
+1458,Mentor_458,"English, Quantitative Techniques","NALSAR, GNLU",Intermediate,Kinesthetic
+1459,Mentor_459,"Legal Reasoning, Quantitative Techniques",GNLU,Intermediate,Auditory
+1460,Mentor_460,Legal Reasoning,"NALSAR, NLU Delhi",Beginner,Auditory
+1461,Mentor_461,"English, Legal Reasoning, Logical Reasoning",NALSAR,Advanced,Auditory
+1462,Mentor_462,"Legal Reasoning, English","NALSAR, GNLU",Intermediate,Auditory
+1463,Mentor_463,"Current Affairs, English, Logical Reasoning","NLU Delhi, NUJS",Beginner,Kinesthetic
+1464,Mentor_464,"Current Affairs, Legal Reasoning","NLU Delhi, NLSIU",Beginner,Auditory
+1465,Mentor_465,English,"NLU Jodhpur, GNLU",Intermediate,Kinesthetic
+1466,Mentor_466,Current Affairs,"NLSIU, GNLU",Beginner,Kinesthetic
+1467,Mentor_467,"Quantitative Techniques, Legal Reasoning, Current Affairs",NALSAR,Beginner,Kinesthetic
+1468,Mentor_468,"Logical Reasoning, Legal Reasoning",NLU Jodhpur,Beginner,Auditory
+1469,Mentor_469,"Legal Reasoning, Logical Reasoning","NUJS, NLU Delhi",Beginner,Auditory
+1470,Mentor_470,"Quantitative Techniques, English","NLSIU, NLU Jodhpur",Advanced,Visual
+1471,Mentor_471,Logical Reasoning,"NLU Jodhpur, GNLU",Advanced,Auditory
+1472,Mentor_472,"Logical Reasoning, English","GNLU, NLSIU",Beginner,Kinesthetic
+1473,Mentor_473,Current Affairs,"NLU Jodhpur, NLU Delhi",Advanced,Visual
+1474,Mentor_474,"Quantitative Techniques, Current Affairs",NUJS,Advanced,Kinesthetic
+1475,Mentor_475,Quantitative Techniques,NLSIU,Advanced,Visual
+1476,Mentor_476,Current Affairs,NLSIU,Advanced,Auditory
+1477,Mentor_477,English,NLSIU,Beginner,Kinesthetic
+1478,Mentor_478,Logical Reasoning,NLU Delhi,Beginner,Kinesthetic
+1479,Mentor_479,"Current Affairs, Legal Reasoning","NALSAR, NLU Delhi",Beginner,Kinesthetic
+1480,Mentor_480,"Legal Reasoning, Quantitative Techniques, Current Affairs","NALSAR, GNLU",Advanced,Visual
+1481,Mentor_481,"Logical Reasoning, Quantitative Techniques, Legal Reasoning","NLU Delhi, GNLU",Advanced,Visual
+1482,Mentor_482,"Legal Reasoning, Current Affairs","NALSAR, NLU Jodhpur",Intermediate,Visual
+1483,Mentor_483,"Logical Reasoning, English",NLSIU,Advanced,Visual
+1484,Mentor_484,Quantitative Techniques,"GNLU, NLU Jodhpur",Intermediate,Kinesthetic
+1485,Mentor_485,"Legal Reasoning, Current Affairs, Quantitative Techniques","NUJS, NLSIU",Beginner,Auditory
+1486,Mentor_486,"Logical Reasoning, Legal Reasoning","NALSAR, NLSIU",Intermediate,Kinesthetic
+1487,Mentor_487,"Current Affairs, Quantitative Techniques, English","NALSAR, NLU Jodhpur",Advanced,Visual
+1488,Mentor_488,"Quantitative Techniques, Legal Reasoning","NLSIU, NLU Delhi",Intermediate,Visual
+1489,Mentor_489,"English, Quantitative Techniques, Legal Reasoning",NLU Jodhpur,Beginner,Kinesthetic
+1490,Mentor_490,"Quantitative Techniques, Logical Reasoning, Legal Reasoning","NLU Jodhpur, NALSAR",Intermediate,Kinesthetic
+1491,Mentor_491,"Quantitative Techniques, Logical Reasoning, English",NLU Jodhpur,Intermediate,Auditory
+1492,Mentor_492,"Legal Reasoning, English","NLU Delhi, NALSAR",Advanced,Visual
+1493,Mentor_493,"Logical Reasoning, Current Affairs","NLU Delhi, NUJS",Intermediate,Auditory
+1494,Mentor_494,Legal Reasoning,"NLU Delhi, NLU Jodhpur",Intermediate,Kinesthetic
+1495,Mentor_495,"Current Affairs, Legal Reasoning, Quantitative Techniques","NLU Jodhpur, NLSIU",Advanced,Visual
+1496,Mentor_496,English,"GNLU, NUJS",Beginner,Auditory
+1497,Mentor_497,"Current Affairs, Logical Reasoning, Quantitative Techniques","GNLU, NUJS",Advanced,Auditory
+1498,Mentor_498,English,NALSAR,Beginner,Visual
+1499,Mentor_499,"Quantitative Techniques, Logical Reasoning","NALSAR, NLU Delhi",Advanced,Kinesthetic
+1500,Mentor_500,Quantitative Techniques,"NLU Jodhpur, NALSAR",Advanced,Kinesthetic

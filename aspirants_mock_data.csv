@@ -1,0 +1,501 @@
+id,name,preferred_subjects,target_colleges,preparation_level,learning_style
+1,Aspirant_1,"Legal Reasoning, Current Affairs",NUJS,Advanced,Kinesthetic
+2,Aspirant_2,"English, Legal Reasoning","NUJS, NLSIU",Intermediate,Kinesthetic
+3,Aspirant_3,"Quantitative Techniques, English, Current Affairs",NLU Delhi,Intermediate,Auditory
+4,Aspirant_4,"English, Quantitative Techniques","NLU Delhi, NUJS",Intermediate,Kinesthetic
+5,Aspirant_5,Quantitative Techniques,"NLU Delhi, NUJS",Advanced,Visual
+6,Aspirant_6,Logical Reasoning,"NALSAR, NLSIU",Beginner,Kinesthetic
+7,Aspirant_7,"English, Logical Reasoning",NLU Jodhpur,Advanced,Visual
+8,Aspirant_8,"Quantitative Techniques, Logical Reasoning",NLU Delhi,Intermediate,Visual
+9,Aspirant_9,Logical Reasoning,"NLSIU, NLU Jodhpur",Advanced,Auditory
+10,Aspirant_10,"Quantitative Techniques, Current Affairs, English",NLU Jodhpur,Beginner,Visual
+11,Aspirant_11,English,NLU Jodhpur,Beginner,Auditory
+12,Aspirant_12,"Current Affairs, Legal Reasoning, Quantitative Techniques",NLSIU,Intermediate,Kinesthetic
+13,Aspirant_13,"Quantitative Techniques, Legal Reasoning, Current Affairs","NLSIU, NUJS",Intermediate,Kinesthetic
+14,Aspirant_14,"Logical Reasoning, Quantitative Techniques","NLSIU, GNLU",Intermediate,Visual
+15,Aspirant_15,"English, Legal Reasoning","NLU Jodhpur, NLSIU",Intermediate,Kinesthetic
+16,Aspirant_16,"Logical Reasoning, Quantitative Techniques","NLSIU, NLU Delhi",Intermediate,Kinesthetic
+17,Aspirant_17,"Quantitative Techniques, Legal Reasoning, English","NLU Jodhpur, NUJS",Intermediate,Kinesthetic
+18,Aspirant_18,English,NALSAR,Advanced,Kinesthetic
+19,Aspirant_19,Quantitative Techniques,NLSIU,Beginner,Auditory
+20,Aspirant_20,"Quantitative Techniques, Current Affairs, Logical Reasoning",GNLU,Advanced,Visual
+21,Aspirant_21,"Quantitative Techniques, English",NALSAR,Intermediate,Kinesthetic
+22,Aspirant_22,Logical Reasoning,NLSIU,Intermediate,Auditory
+23,Aspirant_23,"Logical Reasoning, Quantitative Techniques, Current Affairs",NLSIU,Intermediate,Auditory
+24,Aspirant_24,"Quantitative Techniques, Logical Reasoning",NALSAR,Intermediate,Visual
+25,Aspirant_25,Current Affairs,GNLU,Advanced,Auditory
+26,Aspirant_26,Current Affairs,"NUJS, GNLU",Beginner,Kinesthetic
+27,Aspirant_27,"English, Current Affairs","NLU Delhi, NLSIU",Intermediate,Visual
+28,Aspirant_28,"Logical Reasoning, Current Affairs, English",NLU Jodhpur,Intermediate,Visual
+29,Aspirant_29,English,"NUJS, NLU Jodhpur",Advanced,Visual
+30,Aspirant_30,"Legal Reasoning, Current Affairs","NUJS, GNLU",Beginner,Kinesthetic
+31,Aspirant_31,Legal Reasoning,GNLU,Beginner,Auditory
+32,Aspirant_32,"Quantitative Techniques, English, Legal Reasoning","NLU Delhi, NUJS",Intermediate,Kinesthetic
+33,Aspirant_33,Current Affairs,"NLU Jodhpur, NUJS",Beginner,Auditory
+34,Aspirant_34,Quantitative Techniques,"NLU Delhi, NLU Jodhpur",Intermediate,Visual
+35,Aspirant_35,"Current Affairs, Quantitative Techniques",NALSAR,Beginner,Auditory
+36,Aspirant_36,"Legal Reasoning, English, Quantitative Techniques","NLU Jodhpur, GNLU",Advanced,Auditory
+37,Aspirant_37,Legal Reasoning,"NUJS, NLSIU",Beginner,Visual
+38,Aspirant_38,"English, Current Affairs, Logical Reasoning","NLSIU, NALSAR",Beginner,Auditory
+39,Aspirant_39,"Logical Reasoning, English, Legal Reasoning",NALSAR,Intermediate,Visual
+40,Aspirant_40,"Current Affairs, Quantitative Techniques","NUJS, GNLU",Advanced,Auditory
+41,Aspirant_41,Quantitative Techniques,"NALSAR, GNLU",Beginner,Visual
+42,Aspirant_42,Quantitative Techniques,"NLU Jodhpur, NLSIU",Intermediate,Auditory
+43,Aspirant_43,"Legal Reasoning, Quantitative Techniques","NLU Jodhpur, NALSAR",Beginner,Kinesthetic
+44,Aspirant_44,"Current Affairs, English, Logical Reasoning","GNLU, NALSAR",Advanced,Kinesthetic
+45,Aspirant_45,"Legal Reasoning, Logical Reasoning",NLU Jodhpur,Beginner,Auditory
+46,Aspirant_46,"Current Affairs, English, Legal Reasoning",NUJS,Beginner,Kinesthetic
+47,Aspirant_47,Legal Reasoning,"NALSAR, NLU Jodhpur",Advanced,Visual
+48,Aspirant_48,Current Affairs,"NLU Delhi, GNLU",Beginner,Auditory
+49,Aspirant_49,Current Affairs,NALSAR,Intermediate,Visual
+50,Aspirant_50,English,GNLU,Intermediate,Visual
+51,Aspirant_51,English,"GNLU, NUJS",Beginner,Visual
+52,Aspirant_52,Current Affairs,NALSAR,Beginner,Kinesthetic
+53,Aspirant_53,"Logical Reasoning, Legal Reasoning, Current Affairs","NLU Jodhpur, NUJS",Intermediate,Auditory
+54,Aspirant_54,English,NLU Jodhpur,Intermediate,Visual
+55,Aspirant_55,"Current Affairs, Legal Reasoning",NUJS,Beginner,Auditory
+56,Aspirant_56,Quantitative Techniques,"NALSAR, NUJS",Advanced,Kinesthetic
+57,Aspirant_57,"Legal Reasoning, Quantitative Techniques",NLSIU,Intermediate,Kinesthetic
+58,Aspirant_58,"Logical Reasoning, Quantitative Techniques, English","NLU Delhi, NLU Jodhpur",Intermediate,Auditory
+59,Aspirant_59,"Logical Reasoning, Legal Reasoning",NALSAR,Beginner,Auditory
+60,Aspirant_60,Legal Reasoning,GNLU,Advanced,Auditory
+61,Aspirant_61,"English, Logical Reasoning, Quantitative Techniques","NLSIU, NALSAR",Beginner,Auditory
+62,Aspirant_62,"Quantitative Techniques, English, Current Affairs","NALSAR, NLU Delhi",Advanced,Kinesthetic
+63,Aspirant_63,"Legal Reasoning, English, Quantitative Techniques","NUJS, NLU Delhi",Intermediate,Visual
+64,Aspirant_64,"English, Legal Reasoning",NALSAR,Beginner,Visual
+65,Aspirant_65,Legal Reasoning,NLU Jodhpur,Intermediate,Visual
+66,Aspirant_66,"Legal Reasoning, English","NLSIU, NLU Jodhpur",Beginner,Auditory
+67,Aspirant_67,Current Affairs,NUJS,Beginner,Auditory
+68,Aspirant_68,"Logical Reasoning, Quantitative Techniques, English",NLU Jodhpur,Beginner,Auditory
+69,Aspirant_69,Current Affairs,"NLSIU, NLU Jodhpur",Intermediate,Kinesthetic
+70,Aspirant_70,"Current Affairs, Logical Reasoning","NUJS, NALSAR",Beginner,Auditory
+71,Aspirant_71,"Quantitative Techniques, Legal Reasoning, Logical Reasoning",GNLU,Beginner,Kinesthetic
+72,Aspirant_72,Logical Reasoning,NLSIU,Advanced,Visual
+73,Aspirant_73,"Quantitative Techniques, Current Affairs",NLU Jodhpur,Intermediate,Visual
+74,Aspirant_74,"English, Quantitative Techniques","NUJS, GNLU",Advanced,Kinesthetic
+75,Aspirant_75,"Legal Reasoning, English, Quantitative Techniques",NLU Jodhpur,Advanced,Visual
+76,Aspirant_76,"English, Legal Reasoning, Current Affairs",NLU Delhi,Advanced,Visual
+77,Aspirant_77,"Current Affairs, Legal Reasoning",NALSAR,Intermediate,Visual
+78,Aspirant_78,"Logical Reasoning, Quantitative Techniques",NLSIU,Intermediate,Auditory
+79,Aspirant_79,Quantitative Techniques,NALSAR,Advanced,Kinesthetic
+80,Aspirant_80,"Current Affairs, English, Logical Reasoning","NALSAR, NLU Delhi",Advanced,Kinesthetic
+81,Aspirant_81,"Logical Reasoning, English","NUJS, GNLU",Advanced,Kinesthetic
+82,Aspirant_82,"Quantitative Techniques, Current Affairs","NUJS, NLU Jodhpur",Intermediate,Visual
+83,Aspirant_83,"English, Legal Reasoning","NLSIU, NLU Jodhpur",Intermediate,Kinesthetic
+84,Aspirant_84,Logical Reasoning,GNLU,Beginner,Kinesthetic
+85,Aspirant_85,Logical Reasoning,"NLSIU, NUJS",Intermediate,Kinesthetic
+86,Aspirant_86,"Current Affairs, English, Quantitative Techniques",NLU Jodhpur,Advanced,Visual
+87,Aspirant_87,"Current Affairs, English, Quantitative Techniques","NLU Delhi, GNLU",Beginner,Visual
+88,Aspirant_88,"Logical Reasoning, Current Affairs, Quantitative Techniques","GNLU, NUJS",Intermediate,Visual
+89,Aspirant_89,Current Affairs,"NUJS, NLSIU",Advanced,Visual
+90,Aspirant_90,"Logical Reasoning, Current Affairs, Quantitative Techniques","GNLU, NUJS",Intermediate,Auditory
+91,Aspirant_91,English,NUJS,Beginner,Kinesthetic
+92,Aspirant_92,Current Affairs,"NLU Jodhpur, NLSIU",Advanced,Visual
+93,Aspirant_93,"Current Affairs, Legal Reasoning, Quantitative Techniques","NUJS, GNLU",Advanced,Visual
+94,Aspirant_94,"Logical Reasoning, Quantitative Techniques, Legal Reasoning",NLU Jodhpur,Advanced,Auditory
+95,Aspirant_95,"English, Logical Reasoning, Quantitative Techniques","NUJS, GNLU",Beginner,Auditory
+96,Aspirant_96,"Quantitative Techniques, English","GNLU, NUJS",Advanced,Visual
+97,Aspirant_97,"Logical Reasoning, Current Affairs",GNLU,Intermediate,Kinesthetic
+98,Aspirant_98,"Quantitative Techniques, English, Legal Reasoning","NLU Jodhpur, GNLU",Advanced,Kinesthetic
+99,Aspirant_99,"Logical Reasoning, Legal Reasoning, Quantitative Techniques","NLU Delhi, NALSAR",Advanced,Kinesthetic
+100,Aspirant_100,"Legal Reasoning, Logical Reasoning",GNLU,Intermediate,Visual
+101,Aspirant_101,"English, Current Affairs, Legal Reasoning",GNLU,Intermediate,Visual
+102,Aspirant_102,Current Affairs,GNLU,Intermediate,Visual
+103,Aspirant_103,"Logical Reasoning, Legal Reasoning, English",NLU Jodhpur,Intermediate,Auditory
+104,Aspirant_104,Current Affairs,NUJS,Intermediate,Auditory
+105,Aspirant_105,Logical Reasoning,GNLU,Advanced,Auditory
+106,Aspirant_106,"Quantitative Techniques, Current Affairs","NLU Delhi, NLSIU",Intermediate,Kinesthetic
+107,Aspirant_107,Legal Reasoning,NLSIU,Intermediate,Kinesthetic
+108,Aspirant_108,"Current Affairs, English",NUJS,Beginner,Visual
+109,Aspirant_109,"Legal Reasoning, Current Affairs","NLU Jodhpur, NUJS",Beginner,Visual
+110,Aspirant_110,"Logical Reasoning, Current Affairs",NUJS,Intermediate,Auditory
+111,Aspirant_111,"Quantitative Techniques, Current Affairs","NLU Jodhpur, GNLU",Advanced,Visual
+112,Aspirant_112,"Logical Reasoning, English","NUJS, NALSAR",Intermediate,Kinesthetic
+113,Aspirant_113,"English, Current Affairs, Quantitative Techniques","NLSIU, NALSAR",Beginner,Auditory
+114,Aspirant_114,"Legal Reasoning, English","NLU Jodhpur, NALSAR",Advanced,Kinesthetic
+115,Aspirant_115,"Quantitative Techniques, Legal Reasoning, Current Affairs","GNLU, NALSAR",Intermediate,Auditory
+116,Aspirant_116,"Current Affairs, Quantitative Techniques, Legal Reasoning","NLU Jodhpur, NLU Delhi",Advanced,Kinesthetic
+117,Aspirant_117,"Current Affairs, English, Legal Reasoning",GNLU,Beginner,Auditory
+118,Aspirant_118,"Current Affairs, English, Logical Reasoning","NLU Jodhpur, NLU Delhi",Intermediate,Auditory
+119,Aspirant_119,"Logical Reasoning, Quantitative Techniques","GNLU, NLU Delhi",Intermediate,Kinesthetic
+120,Aspirant_120,"Legal Reasoning, Quantitative Techniques, Current Affairs",GNLU,Intermediate,Kinesthetic
+121,Aspirant_121,"Legal Reasoning, Current Affairs, Quantitative Techniques",NLU Delhi,Beginner,Visual
+122,Aspirant_122,"Logical Reasoning, Quantitative Techniques",NALSAR,Beginner,Visual
+123,Aspirant_123,"Quantitative Techniques, Legal Reasoning",NUJS,Beginner,Auditory
+124,Aspirant_124,Logical Reasoning,NLU Jodhpur,Intermediate,Visual
+125,Aspirant_125,Logical Reasoning,NUJS,Advanced,Kinesthetic
+126,Aspirant_126,Quantitative Techniques,"NLU Jodhpur, NLU Delhi",Intermediate,Auditory
+127,Aspirant_127,Legal Reasoning,"NUJS, NLU Jodhpur",Intermediate,Kinesthetic
+128,Aspirant_128,English,NLSIU,Beginner,Visual
+129,Aspirant_129,"Logical Reasoning, Quantitative Techniques, Legal Reasoning",GNLU,Advanced,Kinesthetic
+130,Aspirant_130,English,GNLU,Beginner,Visual
+131,Aspirant_131,Current Affairs,NLU Jodhpur,Beginner,Visual
+132,Aspirant_132,"Quantitative Techniques, Logical Reasoning, Legal Reasoning","NLSIU, GNLU",Advanced,Auditory
+133,Aspirant_133,Legal Reasoning,"NALSAR, NLU Jodhpur",Advanced,Visual
+134,Aspirant_134,Legal Reasoning,GNLU,Beginner,Auditory
+135,Aspirant_135,"Logical Reasoning, English, Current Affairs","NLU Jodhpur, NUJS",Advanced,Auditory
+136,Aspirant_136,Quantitative Techniques,NUJS,Advanced,Auditory
+137,Aspirant_137,"Quantitative Techniques, Legal Reasoning","NLU Delhi, NLU Jodhpur",Beginner,Auditory
+138,Aspirant_138,Legal Reasoning,"NUJS, NLSIU",Advanced,Auditory
+139,Aspirant_139,"Quantitative Techniques, Current Affairs",NLSIU,Beginner,Auditory
+140,Aspirant_140,"Legal Reasoning, Quantitative Techniques, English","NLU Delhi, NALSAR",Intermediate,Auditory
+141,Aspirant_141,"English, Legal Reasoning, Current Affairs","NLU Delhi, GNLU",Advanced,Visual
+142,Aspirant_142,"Current Affairs, Legal Reasoning, Logical Reasoning","NALSAR, NLU Delhi",Beginner,Auditory
+143,Aspirant_143,Legal Reasoning,"NLU Jodhpur, NUJS",Intermediate,Kinesthetic
+144,Aspirant_144,English,"NLU Jodhpur, NLSIU",Beginner,Visual
+145,Aspirant_145,"Logical Reasoning, English, Legal Reasoning",NALSAR,Advanced,Auditory
+146,Aspirant_146,Legal Reasoning,"NUJS, NLU Jodhpur",Beginner,Auditory
+147,Aspirant_147,"English, Quantitative Techniques","NLU Jodhpur, NLU Delhi",Intermediate,Auditory
+148,Aspirant_148,"English, Logical Reasoning",GNLU,Advanced,Auditory
+149,Aspirant_149,"Current Affairs, Logical Reasoning, English","NUJS, NLU Delhi",Advanced,Kinesthetic
+150,Aspirant_150,Logical Reasoning,"NLU Delhi, NALSAR",Beginner,Visual
+151,Aspirant_151,"Logical Reasoning, English","NLU Delhi, NLU Jodhpur",Intermediate,Kinesthetic
+152,Aspirant_152,Legal Reasoning,"GNLU, NLSIU",Intermediate,Visual
+153,Aspirant_153,"Quantitative Techniques, English","NUJS, GNLU",Advanced,Visual
+154,Aspirant_154,Current Affairs,GNLU,Beginner,Auditory
+155,Aspirant_155,"English, Legal Reasoning, Current Affairs",NLU Delhi,Advanced,Kinesthetic
+156,Aspirant_156,"Quantitative Techniques, Logical Reasoning, Legal Reasoning","NUJS, NLU Delhi",Intermediate,Kinesthetic
+157,Aspirant_157,"English, Logical Reasoning, Legal Reasoning",GNLU,Advanced,Auditory
+158,Aspirant_158,"Legal Reasoning, Current Affairs",NALSAR,Advanced,Kinesthetic
+159,Aspirant_159,Legal Reasoning,"NLU Jodhpur, NUJS",Beginner,Visual
+160,Aspirant_160,Current Affairs,"NLU Jodhpur, NLSIU",Advanced,Kinesthetic
+161,Aspirant_161,"Current Affairs, English","NLU Jodhpur, NLU Delhi",Beginner,Kinesthetic
+162,Aspirant_162,Legal Reasoning,"NUJS, NLU Jodhpur",Advanced,Visual
+163,Aspirant_163,Quantitative Techniques,NALSAR,Intermediate,Auditory
+164,Aspirant_164,Logical Reasoning,"NUJS, GNLU",Beginner,Visual
+165,Aspirant_165,"Current Affairs, Quantitative Techniques","NLSIU, NLU Jodhpur",Beginner,Kinesthetic
+166,Aspirant_166,"Current Affairs, Logical Reasoning, English","NLU Delhi, NLU Jodhpur",Advanced,Visual
+167,Aspirant_167,Legal Reasoning,"NLSIU, NLU Jodhpur",Intermediate,Auditory
+168,Aspirant_168,Current Affairs,"NUJS, NLSIU",Beginner,Auditory
+169,Aspirant_169,"English, Logical Reasoning, Quantitative Techniques","NLU Jodhpur, NLU Delhi",Intermediate,Kinesthetic
+170,Aspirant_170,Current Affairs,NLU Delhi,Advanced,Kinesthetic
+171,Aspirant_171,"Quantitative Techniques, English","NLU Delhi, NLSIU",Beginner,Auditory
+172,Aspirant_172,"Quantitative Techniques, Current Affairs","NLSIU, NALSAR",Intermediate,Kinesthetic
+173,Aspirant_173,"Legal Reasoning, Quantitative Techniques, Current Affairs","NALSAR, NLU Jodhpur",Intermediate,Auditory
+174,Aspirant_174,"Quantitative Techniques, English",GNLU,Advanced,Visual
+175,Aspirant_175,"English, Logical Reasoning, Current Affairs",NALSAR,Beginner,Auditory
+176,Aspirant_176,Quantitative Techniques,"GNLU, NLU Jodhpur",Intermediate,Visual
+177,Aspirant_177,English,"NLSIU, GNLU",Beginner,Auditory
+178,Aspirant_178,"Quantitative Techniques, English",GNLU,Intermediate,Kinesthetic
+179,Aspirant_179,"Quantitative Techniques, English, Logical Reasoning",NLSIU,Beginner,Visual
+180,Aspirant_180,Legal Reasoning,NLU Delhi,Advanced,Visual
+181,Aspirant_181,"Quantitative Techniques, English, Logical Reasoning",GNLU,Beginner,Auditory
+182,Aspirant_182,"Logical Reasoning, English, Current Affairs",NALSAR,Advanced,Auditory
+183,Aspirant_183,Quantitative Techniques,NUJS,Advanced,Kinesthetic
+184,Aspirant_184,English,GNLU,Beginner,Auditory
+185,Aspirant_185,Current Affairs,NLU Jodhpur,Advanced,Visual
+186,Aspirant_186,"Current Affairs, Logical Reasoning, Legal Reasoning","NLU Jodhpur, GNLU",Intermediate,Auditory
+187,Aspirant_187,Logical Reasoning,NLU Jodhpur,Intermediate,Kinesthetic
+188,Aspirant_188,Quantitative Techniques,NLSIU,Intermediate,Visual
+189,Aspirant_189,"Logical Reasoning, Quantitative Techniques","NALSAR, NLSIU",Advanced,Visual
+190,Aspirant_190,"Legal Reasoning, Logical Reasoning",GNLU,Beginner,Kinesthetic
+191,Aspirant_191,Logical Reasoning,NLU Delhi,Advanced,Visual
+192,Aspirant_192,"Quantitative Techniques, Legal Reasoning, Current Affairs","NLU Delhi, NUJS",Advanced,Visual
+193,Aspirant_193,"Logical Reasoning, Current Affairs",NALSAR,Intermediate,Auditory
+194,Aspirant_194,"Quantitative Techniques, English, Legal Reasoning","NLSIU, NUJS",Advanced,Visual
+195,Aspirant_195,"Current Affairs, English, Legal Reasoning","NLSIU, GNLU",Intermediate,Visual
+196,Aspirant_196,"Legal Reasoning, Logical Reasoning","NLU Delhi, NLU Jodhpur",Beginner,Visual
+197,Aspirant_197,"English, Current Affairs, Quantitative Techniques","NLU Delhi, NALSAR",Beginner,Auditory
+198,Aspirant_198,Current Affairs,"NLU Jodhpur, NLSIU",Intermediate,Auditory
+199,Aspirant_199,Logical Reasoning,"NLSIU, NLU Jodhpur",Advanced,Auditory
+200,Aspirant_200,"English, Quantitative Techniques","NLSIU, NALSAR",Beginner,Auditory
+201,Aspirant_201,"Legal Reasoning, Current Affairs, Logical Reasoning","NLU Delhi, GNLU",Beginner,Auditory
+202,Aspirant_202,"Current Affairs, English",NLU Jodhpur,Beginner,Visual
+203,Aspirant_203,"Current Affairs, Legal Reasoning",NALSAR,Intermediate,Visual
+204,Aspirant_204,Logical Reasoning,"GNLU, NUJS",Advanced,Kinesthetic
+205,Aspirant_205,"Quantitative Techniques, Current Affairs",NLU Jodhpur,Beginner,Auditory
+206,Aspirant_206,"Legal Reasoning, Current Affairs, English",NLU Jodhpur,Intermediate,Kinesthetic
+207,Aspirant_207,"Current Affairs, Quantitative Techniques, Logical Reasoning","NLU Jodhpur, NLU Delhi",Beginner,Kinesthetic
+208,Aspirant_208,"Current Affairs, Legal Reasoning","GNLU, NLU Delhi",Advanced,Kinesthetic
+209,Aspirant_209,English,"GNLU, NUJS",Beginner,Auditory
+210,Aspirant_210,Current Affairs,"GNLU, NALSAR",Intermediate,Kinesthetic
+211,Aspirant_211,"Logical Reasoning, Legal Reasoning","NLU Jodhpur, GNLU",Beginner,Auditory
+212,Aspirant_212,"English, Logical Reasoning","NALSAR, NLU Delhi",Intermediate,Kinesthetic
+213,Aspirant_213,"English, Current Affairs, Quantitative Techniques",NLSIU,Intermediate,Kinesthetic
+214,Aspirant_214,"Legal Reasoning, Quantitative Techniques","NALSAR, NLU Delhi",Intermediate,Auditory
+215,Aspirant_215,Current Affairs,GNLU,Beginner,Visual
+216,Aspirant_216,Legal Reasoning,"NUJS, NLSIU",Advanced,Kinesthetic
+217,Aspirant_217,"Current Affairs, Logical Reasoning, English","NLU Jodhpur, GNLU",Intermediate,Visual
+218,Aspirant_218,"Current Affairs, Quantitative Techniques, English","NLU Delhi, GNLU",Advanced,Kinesthetic
+219,Aspirant_219,"Logical Reasoning, Legal Reasoning, English",GNLU,Advanced,Kinesthetic
+220,Aspirant_220,Legal Reasoning,"NALSAR, GNLU",Intermediate,Auditory
+221,Aspirant_221,"English, Legal Reasoning, Current Affairs",NLU Delhi,Beginner,Kinesthetic
+222,Aspirant_222,"Current Affairs, English",NLU Delhi,Beginner,Kinesthetic
+223,Aspirant_223,Quantitative Techniques,"NALSAR, NLU Jodhpur",Intermediate,Visual
+224,Aspirant_224,"Logical Reasoning, English",NALSAR,Advanced,Visual
+225,Aspirant_225,"Quantitative Techniques, Legal Reasoning","NLSIU, NUJS",Beginner,Visual
+226,Aspirant_226,"Logical Reasoning, Quantitative Techniques, Current Affairs","NUJS, GNLU",Intermediate,Visual
+227,Aspirant_227,"Current Affairs, Logical Reasoning, Legal Reasoning",GNLU,Intermediate,Auditory
+228,Aspirant_228,"English, Legal Reasoning","NALSAR, NLSIU",Intermediate,Kinesthetic
+229,Aspirant_229,Current Affairs,NLU Jodhpur,Advanced,Visual
+230,Aspirant_230,"Quantitative Techniques, Current Affairs","NLSIU, GNLU",Advanced,Visual
+231,Aspirant_231,Legal Reasoning,"NLU Delhi, NUJS",Intermediate,Kinesthetic
+232,Aspirant_232,Current Affairs,"NLSIU, NUJS",Advanced,Visual
+233,Aspirant_233,Current Affairs,"NLU Jodhpur, NLSIU",Intermediate,Kinesthetic
+234,Aspirant_234,"Logical Reasoning, Quantitative Techniques, English",NLSIU,Beginner,Visual
+235,Aspirant_235,"English, Legal Reasoning",GNLU,Beginner,Auditory
+236,Aspirant_236,"English, Current Affairs",GNLU,Beginner,Kinesthetic
+237,Aspirant_237,Logical Reasoning,"NLU Delhi, GNLU",Intermediate,Auditory
+238,Aspirant_238,"English, Logical Reasoning, Legal Reasoning","NALSAR, NLU Jodhpur",Advanced,Kinesthetic
+239,Aspirant_239,"Current Affairs, Legal Reasoning","NUJS, GNLU",Intermediate,Visual
+240,Aspirant_240,"Quantitative Techniques, Logical Reasoning, English",NUJS,Beginner,Kinesthetic
+241,Aspirant_241,"Quantitative Techniques, Current Affairs",NUJS,Intermediate,Visual
+242,Aspirant_242,"Logical Reasoning, Legal Reasoning, Quantitative Techniques","NLU Delhi, GNLU",Beginner,Auditory
+243,Aspirant_243,"Current Affairs, Logical Reasoning, Legal Reasoning",NLSIU,Intermediate,Kinesthetic
+244,Aspirant_244,"Quantitative Techniques, Logical Reasoning, English","NLU Delhi, NALSAR",Beginner,Auditory
+245,Aspirant_245,Current Affairs,"NLSIU, NLU Delhi",Beginner,Kinesthetic
+246,Aspirant_246,"Logical Reasoning, Quantitative Techniques, Legal Reasoning",NUJS,Advanced,Auditory
+247,Aspirant_247,Quantitative Techniques,NLU Jodhpur,Intermediate,Auditory
+248,Aspirant_248,"Logical Reasoning, English, Current Affairs","NUJS, NLU Delhi",Intermediate,Visual
+249,Aspirant_249,"Logical Reasoning, Legal Reasoning, Current Affairs","NLU Jodhpur, NLU Delhi",Intermediate,Visual
+250,Aspirant_250,Current Affairs,"NLSIU, NLU Delhi",Advanced,Auditory
+251,Aspirant_251,"English, Legal Reasoning","NLSIU, NALSAR",Intermediate,Auditory
+252,Aspirant_252,"Logical Reasoning, Legal Reasoning, English",NUJS,Beginner,Kinesthetic
+253,Aspirant_253,Logical Reasoning,"NLSIU, NLU Jodhpur",Intermediate,Kinesthetic
+254,Aspirant_254,Current Affairs,GNLU,Intermediate,Auditory
+255,Aspirant_255,Current Affairs,"GNLU, NLU Delhi",Beginner,Kinesthetic
+256,Aspirant_256,English,NUJS,Intermediate,Visual
+257,Aspirant_257,"Legal Reasoning, Logical Reasoning, Quantitative Techniques","NUJS, NALSAR",Advanced,Kinesthetic
+258,Aspirant_258,Quantitative Techniques,"NLU Jodhpur, GNLU",Beginner,Auditory
+259,Aspirant_259,Quantitative Techniques,NUJS,Intermediate,Auditory
+260,Aspirant_260,"Legal Reasoning, Current Affairs","NLU Jodhpur, NALSAR",Intermediate,Visual
+261,Aspirant_261,"Legal Reasoning, English","NUJS, NLU Jodhpur",Intermediate,Kinesthetic
+262,Aspirant_262,Logical Reasoning,"NLSIU, NALSAR",Beginner,Auditory
+263,Aspirant_263,"Quantitative Techniques, Legal Reasoning, English",NLU Jodhpur,Beginner,Auditory
+264,Aspirant_264,"English, Current Affairs, Legal Reasoning",NUJS,Beginner,Kinesthetic
+265,Aspirant_265,"Legal Reasoning, Logical Reasoning",NLU Jodhpur,Advanced,Visual
+266,Aspirant_266,"English, Current Affairs, Legal Reasoning",NLSIU,Beginner,Kinesthetic
+267,Aspirant_267,"Legal Reasoning, English, Quantitative Techniques",NLU Jodhpur,Beginner,Visual
+268,Aspirant_268,"Quantitative Techniques, Legal Reasoning",NLSIU,Beginner,Kinesthetic
+269,Aspirant_269,"Current Affairs, English","NLU Jodhpur, NALSAR",Advanced,Kinesthetic
+270,Aspirant_270,Current Affairs,"GNLU, NALSAR",Intermediate,Visual
+271,Aspirant_271,English,NLU Jodhpur,Beginner,Auditory
+272,Aspirant_272,English,"GNLU, NUJS",Beginner,Auditory
+273,Aspirant_273,Quantitative Techniques,NUJS,Advanced,Auditory
+274,Aspirant_274,"English, Logical Reasoning, Current Affairs","NLU Jodhpur, NUJS",Advanced,Auditory
+275,Aspirant_275,Current Affairs,NALSAR,Advanced,Auditory
+276,Aspirant_276,"Logical Reasoning, Current Affairs",NLU Delhi,Intermediate,Kinesthetic
+277,Aspirant_277,Legal Reasoning,"NLSIU, NALSAR",Advanced,Kinesthetic
+278,Aspirant_278,Current Affairs,NLSIU,Intermediate,Auditory
+279,Aspirant_279,"English, Current Affairs",NLSIU,Advanced,Visual
+280,Aspirant_280,Legal Reasoning,NUJS,Beginner,Kinesthetic
+281,Aspirant_281,Legal Reasoning,"NLU Jodhpur, NALSAR",Beginner,Auditory
+282,Aspirant_282,English,"NLU Jodhpur, GNLU",Beginner,Visual
+283,Aspirant_283,English,GNLU,Beginner,Kinesthetic
+284,Aspirant_284,Current Affairs,GNLU,Advanced,Visual
+285,Aspirant_285,"Legal Reasoning, Logical Reasoning","GNLU, NLU Jodhpur",Advanced,Visual
+286,Aspirant_286,Legal Reasoning,NALSAR,Advanced,Auditory
+287,Aspirant_287,"Current Affairs, Legal Reasoning",NLSIU,Advanced,Kinesthetic
+288,Aspirant_288,"Quantitative Techniques, Legal Reasoning, English",NALSAR,Intermediate,Visual
+289,Aspirant_289,"Legal Reasoning, Current Affairs, English","NLU Jodhpur, NALSAR",Intermediate,Kinesthetic
+290,Aspirant_290,Legal Reasoning,NLSIU,Beginner,Auditory
+291,Aspirant_291,English,NALSAR,Advanced,Kinesthetic
+292,Aspirant_292,"Logical Reasoning, Legal Reasoning","NALSAR, GNLU",Intermediate,Auditory
+293,Aspirant_293,Logical Reasoning,NLSIU,Beginner,Auditory
+294,Aspirant_294,Legal Reasoning,"GNLU, NALSAR",Intermediate,Visual
+295,Aspirant_295,"Current Affairs, Legal Reasoning, Quantitative Techniques","NUJS, NLU Delhi",Advanced,Visual
+296,Aspirant_296,"Logical Reasoning, Legal Reasoning, Quantitative Techniques","NUJS, NLU Delhi",Intermediate,Kinesthetic
+297,Aspirant_297,"Current Affairs, English, Legal Reasoning","GNLU, NUJS",Intermediate,Auditory
+298,Aspirant_298,Legal Reasoning,NALSAR,Intermediate,Kinesthetic
+299,Aspirant_299,"Current Affairs, Logical Reasoning","NALSAR, GNLU",Intermediate,Auditory
+300,Aspirant_300,"Current Affairs, Legal Reasoning, Quantitative Techniques","NALSAR, NLSIU",Beginner,Visual
+301,Aspirant_301,"English, Legal Reasoning","NALSAR, NLU Delhi",Advanced,Auditory
+302,Aspirant_302,"Logical Reasoning, Legal Reasoning, Quantitative Techniques","NLU Jodhpur, GNLU",Advanced,Visual
+303,Aspirant_303,"Logical Reasoning, Current Affairs, Legal Reasoning",NLU Delhi,Advanced,Kinesthetic
+304,Aspirant_304,"Legal Reasoning, Current Affairs","NLU Jodhpur, NLU Delhi",Advanced,Auditory
+305,Aspirant_305,"Legal Reasoning, English","NLU Delhi, GNLU",Beginner,Kinesthetic
+306,Aspirant_306,"English, Legal Reasoning, Logical Reasoning","NUJS, NLSIU",Advanced,Visual
+307,Aspirant_307,English,NLU Delhi,Beginner,Kinesthetic
+308,Aspirant_308,"English, Legal Reasoning","NLSIU, NALSAR",Advanced,Kinesthetic
+309,Aspirant_309,"Logical Reasoning, Quantitative Techniques","NUJS, NLU Delhi",Intermediate,Visual
+310,Aspirant_310,Legal Reasoning,"NALSAR, NLU Jodhpur",Beginner,Visual
+311,Aspirant_311,"Logical Reasoning, Current Affairs, English",NLU Jodhpur,Beginner,Kinesthetic
+312,Aspirant_312,"Quantitative Techniques, Current Affairs",NLU Delhi,Intermediate,Visual
+313,Aspirant_313,"English, Quantitative Techniques",NUJS,Advanced,Visual
+314,Aspirant_314,"English, Quantitative Techniques, Logical Reasoning","GNLU, NLU Jodhpur",Beginner,Kinesthetic
+315,Aspirant_315,English,"NALSAR, NLU Delhi",Beginner,Auditory
+316,Aspirant_316,"Quantitative Techniques, Current Affairs, English",GNLU,Advanced,Kinesthetic
+317,Aspirant_317,Legal Reasoning,NLU Delhi,Beginner,Auditory
+318,Aspirant_318,"Quantitative Techniques, Legal Reasoning",NLU Jodhpur,Intermediate,Auditory
+319,Aspirant_319,Legal Reasoning,NLU Delhi,Advanced,Visual
+320,Aspirant_320,"Current Affairs, English, Quantitative Techniques",GNLU,Intermediate,Kinesthetic
+321,Aspirant_321,"Logical Reasoning, Current Affairs, Legal Reasoning","NLU Delhi, NLU Jodhpur",Beginner,Kinesthetic
+322,Aspirant_322,"Legal Reasoning, English, Logical Reasoning","NALSAR, GNLU",Advanced,Visual
+323,Aspirant_323,Quantitative Techniques,GNLU,Advanced,Kinesthetic
+324,Aspirant_324,Quantitative Techniques,NALSAR,Advanced,Kinesthetic
+325,Aspirant_325,"English, Quantitative Techniques, Current Affairs","NLU Jodhpur, NLU Delhi",Beginner,Auditory
+326,Aspirant_326,"Legal Reasoning, English","NALSAR, NLSIU",Advanced,Kinesthetic
+327,Aspirant_327,Quantitative Techniques,NLSIU,Advanced,Auditory
+328,Aspirant_328,"Logical Reasoning, English","NUJS, NLSIU",Beginner,Auditory
+329,Aspirant_329,"Logical Reasoning, Current Affairs, Legal Reasoning","NLU Jodhpur, NLU Delhi",Beginner,Visual
+330,Aspirant_330,Legal Reasoning,"NUJS, NALSAR",Intermediate,Kinesthetic
+331,Aspirant_331,Quantitative Techniques,"NLU Delhi, NALSAR",Advanced,Visual
+332,Aspirant_332,"Current Affairs, Logical Reasoning, Legal Reasoning",NLU Delhi,Intermediate,Kinesthetic
+333,Aspirant_333,"Current Affairs, English, Logical Reasoning","NLU Jodhpur, GNLU",Intermediate,Auditory
+334,Aspirant_334,Logical Reasoning,"NLSIU, NLU Delhi",Advanced,Kinesthetic
+335,Aspirant_335,"English, Logical Reasoning","GNLU, NLU Jodhpur",Beginner,Kinesthetic
+336,Aspirant_336,"Quantitative Techniques, Current Affairs, Legal Reasoning","GNLU, NUJS",Beginner,Auditory
+337,Aspirant_337,"Logical Reasoning, Current Affairs, English","NLSIU, NALSAR",Beginner,Visual
+338,Aspirant_338,"Quantitative Techniques, Logical Reasoning, Current Affairs",NUJS,Advanced,Auditory
+339,Aspirant_339,Legal Reasoning,NLU Delhi,Intermediate,Kinesthetic
+340,Aspirant_340,Current Affairs,"NLU Delhi, NALSAR",Intermediate,Auditory
+341,Aspirant_341,Quantitative Techniques,NLU Jodhpur,Intermediate,Kinesthetic
+342,Aspirant_342,Quantitative Techniques,NALSAR,Advanced,Kinesthetic
+343,Aspirant_343,"Legal Reasoning, Logical Reasoning, English","GNLU, NUJS",Intermediate,Auditory
+344,Aspirant_344,Current Affairs,"NALSAR, NLSIU",Beginner,Visual
+345,Aspirant_345,Quantitative Techniques,NALSAR,Intermediate,Auditory
+346,Aspirant_346,"Logical Reasoning, Current Affairs","GNLU, NLU Jodhpur",Beginner,Auditory
+347,Aspirant_347,Quantitative Techniques,"GNLU, NLSIU",Intermediate,Kinesthetic
+348,Aspirant_348,English,GNLU,Beginner,Kinesthetic
+349,Aspirant_349,"Current Affairs, Legal Reasoning, Logical Reasoning",NLU Jodhpur,Intermediate,Kinesthetic
+350,Aspirant_350,"English, Logical Reasoning",GNLU,Intermediate,Visual
+351,Aspirant_351,"Legal Reasoning, Quantitative Techniques, Current Affairs","NLU Jodhpur, NLU Delhi",Advanced,Auditory
+352,Aspirant_352,"Quantitative Techniques, Logical Reasoning, Current Affairs","NLSIU, NUJS",Advanced,Kinesthetic
+353,Aspirant_353,"Logical Reasoning, Current Affairs, Quantitative Techniques",NLU Delhi,Beginner,Visual
+354,Aspirant_354,"English, Current Affairs","NLU Delhi, NLSIU",Intermediate,Kinesthetic
+355,Aspirant_355,Logical Reasoning,GNLU,Advanced,Visual
+356,Aspirant_356,Quantitative Techniques,NUJS,Advanced,Kinesthetic
+357,Aspirant_357,"Legal Reasoning, Quantitative Techniques, Logical Reasoning","GNLU, NALSAR",Advanced,Visual
+358,Aspirant_358,"Quantitative Techniques, Legal Reasoning",NUJS,Intermediate,Kinesthetic
+359,Aspirant_359,Quantitative Techniques,"NLU Jodhpur, GNLU",Advanced,Visual
+360,Aspirant_360,"Legal Reasoning, Current Affairs",NUJS,Beginner,Auditory
+361,Aspirant_361,"English, Legal Reasoning, Logical Reasoning","NLSIU, NLU Delhi",Beginner,Visual
+362,Aspirant_362,English,"NALSAR, NLU Jodhpur",Beginner,Visual
+363,Aspirant_363,"Logical Reasoning, English, Quantitative Techniques","NLSIU, NLU Delhi",Intermediate,Kinesthetic
+364,Aspirant_364,"English, Current Affairs","NALSAR, NLSIU",Advanced,Kinesthetic
+365,Aspirant_365,Current Affairs,GNLU,Beginner,Visual
+366,Aspirant_366,English,NLU Delhi,Beginner,Visual
+367,Aspirant_367,Legal Reasoning,NLU Delhi,Advanced,Kinesthetic
+368,Aspirant_368,"Current Affairs, Legal Reasoning","NALSAR, NLSIU",Intermediate,Visual
+369,Aspirant_369,"Current Affairs, Quantitative Techniques","GNLU, NLSIU",Advanced,Auditory
+370,Aspirant_370,"Quantitative Techniques, English, Legal Reasoning","NLSIU, NUJS",Beginner,Auditory
+371,Aspirant_371,"Current Affairs, English, Logical Reasoning","GNLU, NLSIU",Advanced,Auditory
+372,Aspirant_372,"Quantitative Techniques, Legal Reasoning, Current Affairs",NALSAR,Intermediate,Visual
+373,Aspirant_373,Logical Reasoning,"NLU Jodhpur, NLU Delhi",Intermediate,Auditory
+374,Aspirant_374,Current Affairs,NALSAR,Beginner,Kinesthetic
+375,Aspirant_375,"English, Logical Reasoning","NALSAR, GNLU",Intermediate,Auditory
+376,Aspirant_376,"Logical Reasoning, Legal Reasoning, English","NLU Delhi, NALSAR",Intermediate,Auditory
+377,Aspirant_377,"Quantitative Techniques, Current Affairs, English","GNLU, NLU Delhi",Intermediate,Auditory
+378,Aspirant_378,"English, Quantitative Techniques, Logical Reasoning",NALSAR,Beginner,Auditory
+379,Aspirant_379,Logical Reasoning,"NALSAR, NLSIU",Advanced,Kinesthetic
+380,Aspirant_380,"English, Legal Reasoning",NALSAR,Advanced,Visual
+381,Aspirant_381,"Logical Reasoning, Legal Reasoning, Current Affairs","NLU Delhi, NLU Jodhpur",Advanced,Visual
+382,Aspirant_382,"Logical Reasoning, Legal Reasoning",GNLU,Beginner,Auditory
+383,Aspirant_383,"English, Legal Reasoning","NALSAR, NLU Delhi",Advanced,Auditory
+384,Aspirant_384,"Logical Reasoning, Legal Reasoning, English","NLU Delhi, GNLU",Intermediate,Auditory
+385,Aspirant_385,"Quantitative Techniques, Logical Reasoning, Legal Reasoning","NALSAR, NLSIU",Intermediate,Visual
+386,Aspirant_386,Legal Reasoning,NLU Jodhpur,Advanced,Auditory
+387,Aspirant_387,"Current Affairs, Legal Reasoning, Logical Reasoning","NLSIU, GNLU",Advanced,Visual
+388,Aspirant_388,"Current Affairs, English","NALSAR, NLU Delhi",Beginner,Kinesthetic
+389,Aspirant_389,"Current Affairs, Quantitative Techniques, Legal Reasoning","NALSAR, GNLU",Intermediate,Kinesthetic
+390,Aspirant_390,Quantitative Techniques,"GNLU, NLU Delhi",Beginner,Visual
+391,Aspirant_391,Current Affairs,"NALSAR, NLU Jodhpur",Intermediate,Auditory
+392,Aspirant_392,"Legal Reasoning, Quantitative Techniques",GNLU,Beginner,Auditory
+393,Aspirant_393,"Logical Reasoning, Quantitative Techniques","NUJS, NALSAR",Intermediate,Visual
+394,Aspirant_394,English,"NLU Delhi, GNLU",Intermediate,Auditory
+395,Aspirant_395,"Current Affairs, Legal Reasoning, English","NLSIU, GNLU",Advanced,Auditory
+396,Aspirant_396,Legal Reasoning,"NLU Jodhpur, GNLU",Beginner,Visual
+397,Aspirant_397,"English, Quantitative Techniques, Legal Reasoning",NLU Jodhpur,Advanced,Visual
+398,Aspirant_398,Legal Reasoning,"NLU Delhi, NUJS",Advanced,Visual
+399,Aspirant_399,"Legal Reasoning, Quantitative Techniques, Current Affairs",GNLU,Beginner,Auditory
+400,Aspirant_400,"Logical Reasoning, Quantitative Techniques, English",NUJS,Advanced,Auditory
+401,Aspirant_401,Quantitative Techniques,"NLU Jodhpur, NUJS",Intermediate,Kinesthetic
+402,Aspirant_402,"Current Affairs, English, Logical Reasoning","NUJS, NLU Delhi",Beginner,Visual
+403,Aspirant_403,"Quantitative Techniques, Legal Reasoning, Current Affairs","NALSAR, GNLU",Beginner,Kinesthetic
+404,Aspirant_404,"English, Current Affairs, Logical Reasoning",NLU Jodhpur,Beginner,Kinesthetic
+405,Aspirant_405,"Quantitative Techniques, English, Logical Reasoning","NLU Delhi, GNLU",Beginner,Visual
+406,Aspirant_406,Legal Reasoning,NLU Delhi,Advanced,Auditory
+407,Aspirant_407,"Logical Reasoning, Legal Reasoning","NALSAR, NLSIU",Intermediate,Auditory
+408,Aspirant_408,Current Affairs,NUJS,Beginner,Auditory
+409,Aspirant_409,"Quantitative Techniques, Legal Reasoning","GNLU, NLU Delhi",Beginner,Auditory
+410,Aspirant_410,"Quantitative Techniques, English",NLU Delhi,Advanced,Auditory
+411,Aspirant_411,"Quantitative Techniques, Legal Reasoning, Current Affairs","NUJS, NALSAR",Intermediate,Kinesthetic
+412,Aspirant_412,"English, Logical Reasoning, Quantitative Techniques",GNLU,Beginner,Auditory
+413,Aspirant_413,Current Affairs,GNLU,Intermediate,Auditory
+414,Aspirant_414,"Quantitative Techniques, Legal Reasoning, Logical Reasoning","NUJS, NALSAR",Intermediate,Kinesthetic
+415,Aspirant_415,"Logical Reasoning, Current Affairs","NUJS, NLU Jodhpur",Advanced,Kinesthetic
+416,Aspirant_416,Legal Reasoning,NUJS,Advanced,Kinesthetic
+417,Aspirant_417,Legal Reasoning,"GNLU, NUJS",Beginner,Visual
+418,Aspirant_418,English,"GNLU, NALSAR",Advanced,Kinesthetic
+419,Aspirant_419,"Legal Reasoning, Current Affairs","NUJS, NLSIU",Intermediate,Auditory
+420,Aspirant_420,"English, Legal Reasoning",NLSIU,Intermediate,Auditory
+421,Aspirant_421,"Logical Reasoning, English, Quantitative Techniques","NUJS, NALSAR",Intermediate,Visual
+422,Aspirant_422,"Logical Reasoning, Quantitative Techniques, English",NALSAR,Beginner,Auditory
+423,Aspirant_423,"Legal Reasoning, Current Affairs","NUJS, NLU Jodhpur",Beginner,Kinesthetic
+424,Aspirant_424,Legal Reasoning,"NALSAR, NLU Jodhpur",Beginner,Visual
+425,Aspirant_425,"Legal Reasoning, Current Affairs, Quantitative Techniques",NLU Jodhpur,Intermediate,Visual
+426,Aspirant_426,"Legal Reasoning, English, Current Affairs",NALSAR,Intermediate,Visual
+427,Aspirant_427,Legal Reasoning,"NLSIU, NLU Delhi",Intermediate,Auditory
+428,Aspirant_428,"Current Affairs, Logical Reasoning","GNLU, NLSIU",Intermediate,Kinesthetic
+429,Aspirant_429,Quantitative Techniques,NLU Delhi,Advanced,Kinesthetic
+430,Aspirant_430,English,NALSAR,Advanced,Auditory
+431,Aspirant_431,English,GNLU,Beginner,Visual
+432,Aspirant_432,"Logical Reasoning, Quantitative Techniques",NALSAR,Advanced,Visual
+433,Aspirant_433,"Legal Reasoning, English, Quantitative Techniques",NLU Delhi,Advanced,Visual
+434,Aspirant_434,"English, Logical Reasoning",NLSIU,Advanced,Visual
+435,Aspirant_435,"Quantitative Techniques, English, Legal Reasoning",NLU Jodhpur,Beginner,Kinesthetic
+436,Aspirant_436,English,"NUJS, NALSAR",Advanced,Auditory
+437,Aspirant_437,"Logical Reasoning, English, Legal Reasoning",NUJS,Advanced,Auditory
+438,Aspirant_438,English,NALSAR,Beginner,Kinesthetic
+439,Aspirant_439,"Logical Reasoning, Current Affairs","GNLU, NLSIU",Beginner,Kinesthetic
+440,Aspirant_440,"Legal Reasoning, Current Affairs, Logical Reasoning","NLU Jodhpur, GNLU",Intermediate,Kinesthetic
+441,Aspirant_441,"Logical Reasoning, Legal Reasoning",NLU Delhi,Intermediate,Kinesthetic
+442,Aspirant_442,"English, Quantitative Techniques, Current Affairs","NALSAR, NLSIU",Beginner,Visual
+443,Aspirant_443,"Quantitative Techniques, Legal Reasoning, Current Affairs",NLU Delhi,Advanced,Visual
+444,Aspirant_444,"Quantitative Techniques, Legal Reasoning, English",NLU Jodhpur,Intermediate,Visual
+445,Aspirant_445,"Quantitative Techniques, Current Affairs","NALSAR, NUJS",Advanced,Visual
+446,Aspirant_446,Quantitative Techniques,"NUJS, NLU Delhi",Intermediate,Visual
+447,Aspirant_447,"Quantitative Techniques, English, Current Affairs",NALSAR,Advanced,Kinesthetic
+448,Aspirant_448,"Legal Reasoning, Logical Reasoning, Current Affairs","NLSIU, NLU Delhi",Advanced,Auditory
+449,Aspirant_449,"Legal Reasoning, English","GNLU, NALSAR",Intermediate,Visual
+450,Aspirant_450,"Quantitative Techniques, English, Logical Reasoning",NLU Delhi,Beginner,Kinesthetic
+451,Aspirant_451,"English, Current Affairs",NLSIU,Intermediate,Auditory
+452,Aspirant_452,"Current Affairs, Legal Reasoning",NLU Jodhpur,Beginner,Kinesthetic
+453,Aspirant_453,"Current Affairs, Quantitative Techniques, Logical Reasoning","GNLU, NLSIU",Advanced,Auditory
+454,Aspirant_454,"English, Current Affairs, Legal Reasoning",NLU Delhi,Advanced,Kinesthetic
+455,Aspirant_455,Quantitative Techniques,NLU Delhi,Advanced,Kinesthetic
+456,Aspirant_456,"Logical Reasoning, English",GNLU,Intermediate,Kinesthetic
+457,Aspirant_457,Current Affairs,NALSAR,Advanced,Auditory
+458,Aspirant_458,Quantitative Techniques,"NLSIU, NLU Delhi",Beginner,Kinesthetic
+459,Aspirant_459,"Quantitative Techniques, Current Affairs","NLSIU, NLU Delhi",Intermediate,Auditory
+460,Aspirant_460,"Current Affairs, Logical Reasoning","NLU Delhi, GNLU",Advanced,Kinesthetic
+461,Aspirant_461,"Legal Reasoning, Quantitative Techniques, English",NLU Delhi,Intermediate,Kinesthetic
+462,Aspirant_462,"Legal Reasoning, English, Logical Reasoning","NALSAR, NUJS",Beginner,Visual
+463,Aspirant_463,Logical Reasoning,NLU Delhi,Beginner,Visual
+464,Aspirant_464,"Current Affairs, Quantitative Techniques, Logical Reasoning",NALSAR,Beginner,Visual
+465,Aspirant_465,"Current Affairs, Logical Reasoning","NUJS, NLU Jodhpur",Intermediate,Visual
+466,Aspirant_466,"Logical Reasoning, Legal Reasoning, Current Affairs",NLU Jodhpur,Intermediate,Visual
+467,Aspirant_467,"Logical Reasoning, Legal Reasoning, Quantitative Techniques",NLSIU,Intermediate,Auditory
+468,Aspirant_468,"English, Logical Reasoning",NLU Jodhpur,Advanced,Kinesthetic
+469,Aspirant_469,"Current Affairs, English, Quantitative Techniques",NLSIU,Beginner,Visual
+470,Aspirant_470,English,"NLU Jodhpur, GNLU",Intermediate,Auditory
+471,Aspirant_471,"Quantitative Techniques, Legal Reasoning, English",NLU Jodhpur,Beginner,Visual
+472,Aspirant_472,Current Affairs,"NLU Jodhpur, NLSIU",Beginner,Visual
+473,Aspirant_473,"Legal Reasoning, Quantitative Techniques, Current Affairs",NLU Delhi,Intermediate,Auditory
+474,Aspirant_474,"Quantitative Techniques, English",NUJS,Advanced,Auditory
+475,Aspirant_475,"Quantitative Techniques, Legal Reasoning","NLU Jodhpur, GNLU",Advanced,Auditory
+476,Aspirant_476,Current Affairs,"NLSIU, NLU Jodhpur",Intermediate,Kinesthetic
+477,Aspirant_477,"English, Legal Reasoning, Logical Reasoning",NLU Delhi,Beginner,Kinesthetic
+478,Aspirant_478,"Logical Reasoning, Quantitative Techniques",NLSIU,Beginner,Kinesthetic
+479,Aspirant_479,"Current Affairs, English",GNLU,Beginner,Auditory
+480,Aspirant_480,Logical Reasoning,NLU Delhi,Beginner,Auditory
+481,Aspirant_481,"Quantitative Techniques, Legal Reasoning",NLSIU,Intermediate,Auditory
+482,Aspirant_482,Quantitative Techniques,NALSAR,Beginner,Auditory
+483,Aspirant_483,Current Affairs,GNLU,Beginner,Kinesthetic
+484,Aspirant_484,Current Affairs,"GNLU, NLU Delhi",Advanced,Visual
+485,Aspirant_485,"Legal Reasoning, Logical Reasoning",NLU Jodhpur,Intermediate,Visual
+486,Aspirant_486,"Quantitative Techniques, English, Current Affairs",NLU Delhi,Intermediate,Visual
+487,Aspirant_487,"English, Legal Reasoning, Current Affairs","NLU Jodhpur, NLSIU",Beginner,Visual
+488,Aspirant_488,"English, Legal Reasoning, Current Affairs",NALSAR,Advanced,Auditory
+489,Aspirant_489,"Legal Reasoning, English, Logical Reasoning",NLSIU,Beginner,Kinesthetic
+490,Aspirant_490,"Quantitative Techniques, Current Affairs","NLU Delhi, NUJS",Intermediate,Visual
+491,Aspirant_491,"Logical Reasoning, Legal Reasoning, Quantitative Techniques",NLSIU,Beginner,Visual
+492,Aspirant_492,"Logical Reasoning, Current Affairs","NLSIU, NLU Jodhpur",Intermediate,Visual
+493,Aspirant_493,Current Affairs,"NLU Delhi, NUJS",Beginner,Kinesthetic
+494,Aspirant_494,"Current Affairs, Quantitative Techniques",NLU Delhi,Advanced,Visual
+495,Aspirant_495,"Logical Reasoning, Current Affairs","NLU Jodhpur, NALSAR",Intermediate,Auditory
+496,Aspirant_496,"English, Logical Reasoning","NALSAR, NLSIU",Intermediate,Kinesthetic
+497,Aspirant_497,"Logical Reasoning, Quantitative Techniques, Current Affairs",NLU Jodhpur,Advanced,Auditory
+498,Aspirant_498,Logical Reasoning,NLU Delhi,Intermediate,Auditory
+499,Aspirant_499,"Current Affairs, Quantitative Techniques, Legal Reasoning",NLSIU,Advanced,Kinesthetic
+500,Aspirant_500,Current Affairs,"NLSIU, NUJS",Intermediate,Visual

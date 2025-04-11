@@ -10,6 +10,17 @@ Design a recommendation system to suggest suitable mentors to CLAT aspirants by 
 
 ---
 
+## 🔍 Features
+
+## 🔍 Features
+
+-Cosine similarity-based mentor matching
+-Mock aspirant and mentor profiles in CSV format
+-Clean, modular Jupyter Notebook implementation
+-Lightweight and fast using Pandas & Scikit-learn
+
+---
+
 ## 📂 Project Structure
 
 - `mentor_recommender.ipynb`: Main notebook with data loading, preprocessing, and recommendation logic.
@@ -17,8 +28,6 @@ Design a recommendation system to suggest suitable mentors to CLAT aspirants by 
 - `mentors_mock_data.csv`: Sample dataset for mentors (CLAT toppers).
 - `requirements.txt`: List of libraries used.
 - `README.md`: Setup instructions and explanation of the approach.
-
----
 
 ## ⚙️ Setup Instructions
 
